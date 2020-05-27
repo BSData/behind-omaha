@@ -1,1 +1,0 @@
-https://www.github.com/EryelShest/Behind-Omaha-Files/tree/master/Behind%20Omaha.gst
