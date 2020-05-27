@@ -1,11 +1,11 @@
-Template Data Repo
+Behind Omaha
 ==================
 
-[![GitHub release](https://img.shields.io/github/release/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/releases/latest)
-[![Github commits (since latest release)](https://img.shields.io/github/commits-since/BSData/TemplateDataRepo/latest.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/releases)
-[![Open Bug issues](https://img.shields.io/github/issues/BSData/TemplateDataRepo/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/TemplateDataRepo/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
-[![GitHub contributors](https://img.shields.io/github/contributors/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/graphs/contributors)
-[![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/BSData/TemplateDataRepo/pulse/monthly)
+[![GitHub release](https://img.shields.io/github/release/BSData/behind-omaha.svg?style=flat-square)](https://github.com/BSData/behind-omaha/releases/latest)
+[![Github commits (since latest release)](https://img.shields.io/github/commits-since/BSData/behind-omaha/latest.svg?style=flat-square)](https://github.com/BSData/behind-omaha/releases)
+[![Open Bug issues](https://img.shields.io/github/issues/BSData/behind-omaha/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/behind-omaha/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+[![GitHub contributors](https://img.shields.io/github/contributors/BSData/behind-omaha.svg?style=flat-square)](https://github.com/BSData/behind-omaha/graphs/contributors)
+[![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/behind-omaha.svg?style=flat-square)](https://github.com/BSData/behind-omaha/pulse/monthly)
 
 [![Chat on Discord](https://img.shields.io/discord/558412685981777922.svg?logo=discord&style=popout-square)](https://discord.gg/KqPVhds)
 
@@ -42,8 +42,8 @@ Great, thank you! Now, you have some options:
 * [BattleScribe Data on Appspot][]
 * [Getting Started wiki][]
 
-[Report it on Appspot]: http://battlescribedata.appspot.com/#/repo/TemplateDataRepo
-[Open Issue directly]: https://github.com/BSData/TemplateDataRepo/issues
+[Report it on Appspot]: http://battlescribedata.appspot.com/#/repo/behind-omaha
+[Open Issue directly]: https://github.com/BSData/behind-omaha/issues
 [BattleScribe homepage]: http://www.battlescribe.net/
 [BattleScribe Data on Appspot]: http://battlescribedata.appspot.com/#/repos
 [Getting Started wiki]: https://github.com/BSData/catalogue-development/wiki/Getting-Started#contributing
