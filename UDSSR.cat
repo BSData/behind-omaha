@@ -184,6 +184,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="54ac-e1f4-44ba-d3f9" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="694a-55da-40d7-c37b" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -200,6 +201,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="1534-a467-0f81-6246" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="531b-c268-7ff2-4a65" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="47.0"/>
@@ -216,6 +218,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="1c19-ff85-f2e8-d30f" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="9a3e-3edf-2665-dc34" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="47.0"/>
@@ -232,6 +235,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="8499-015a-2151-739c" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="913f-dbbc-ebf1-20fb" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="47.0"/>
@@ -248,6 +252,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="572f-65c4-3f4d-a4a2" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="c8fc-aa5c-7810-659e" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -264,6 +269,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="13e3-63c4-2a1a-aa1b" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="c748-b4dc-d22d-2f9d" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -280,6 +286,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="601c-bf33-3818-b0e7" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="63a4-069e-5764-51c3" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -296,6 +303,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="9312-8904-b1ba-68b3" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="525a-1db8-8752-eabf" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -312,6 +320,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="5016-c761-44e7-d611" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="b4ca-9c24-b16a-3429" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -328,6 +337,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="fe63-6da6-d94b-c9f6" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="2bfb-ced4-5ab7-ec79" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -344,6 +354,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="2a09-f5c7-3399-4925" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="f265-a854-23ec-1527" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -360,6 +371,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="340d-90a2-c34e-b616" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="6c36-e032-c211-7866" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -376,6 +388,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="11f2-86c6-c5a2-4a4c" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="5cd2-009f-ee36-59f1" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -392,6 +405,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="5810-c8e1-a4d4-1611" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="92d7-045a-3e47-3ac5" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="60.0"/>
@@ -408,6 +422,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="c174-5329-b169-8644" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="f94f-b854-701b-cfb6" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="60.0"/>
@@ -424,6 +439,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="7170-2ba5-3420-c263" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="8d46-571f-f24d-7f3b" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="56.0"/>
@@ -440,6 +456,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="d68f-90b4-f568-bf04" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="5580-3163-3cc6-543e" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="56.0"/>
@@ -456,6 +473,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="fd38-1c56-8ead-f25d" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="988a-7ecc-5fbf-b849" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="56.0"/>

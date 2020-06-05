@@ -385,6 +385,7 @@
             <entryLink id="189f-1169-bbfc-ad3d" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="8d36-f282-0c22-d819" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="46.0"/>
@@ -405,6 +406,7 @@
             <entryLink id="7619-554d-f406-fe5e" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="7464-00e1-009e-f778" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="39.0"/>
@@ -425,6 +427,7 @@
             <entryLink id="68fa-9cf0-8a4c-a313" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="703c-220e-3bde-8dfe" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="39.0"/>
@@ -445,6 +448,7 @@
             <entryLink id="34fe-46d4-7728-b01a" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="c9cf-17bd-ec2c-f84a" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="39.0"/>
@@ -465,6 +469,7 @@
             <entryLink id="11d2-822e-ede4-6822" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="3709-8a8d-9182-9f47" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="39.0"/>
@@ -485,6 +490,7 @@
             <entryLink id="e725-1093-f991-354c" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="f49e-ece7-a7c4-df51" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="44.0"/>
@@ -505,6 +511,7 @@
             <entryLink id="e69a-ee13-1f41-0cf8" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="3893-6aed-520c-5839" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="37.0"/>
@@ -525,6 +532,7 @@
             <entryLink id="e83f-bfea-51d2-752c" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="a7af-a262-f35d-69fd" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="47.0"/>
@@ -545,6 +553,7 @@
             <entryLink id="b417-55c8-5085-af0d" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="43b8-545c-7b69-a01c" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="47.0"/>
@@ -565,6 +574,7 @@
             <entryLink id="d13e-0000-10d2-87b2" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="ea23-88a7-2ce9-05e8" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="47.0"/>
@@ -585,6 +595,7 @@
             <entryLink id="868e-20b4-945d-975d" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="f4f3-da84-e873-812a" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="40.0"/>
@@ -605,6 +616,7 @@
             <entryLink id="714c-853e-6a5f-a0aa" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="0b86-bb44-1bec-6279" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -625,6 +637,7 @@
             <entryLink id="00fe-9e8d-7b79-9fa8" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="895c-0e6a-2fe8-f062" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="40.0"/>
@@ -645,6 +658,7 @@
             <entryLink id="b380-2a8b-7411-e991" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="2247-fb11-6ca5-e78a" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="40.0"/>
@@ -665,6 +679,7 @@
             <entryLink id="5a2d-ea37-ea1b-9d1d" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="6206-22a9-e535-3049" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -680,11 +695,12 @@
         <categoryLink id="82d8-7703-e37d-2c7e" name="Benz L3000" hidden="false" targetId="8a3e-1ca9-6e7d-2e1d" primary="false"/>
       </categoryLinks>
       <entryLinks>
-        <entryLink id="e55e-df7d-2b46-5f15" name="Kampfwertsteigerungen_ger" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+        <entryLink id="e55e-df7d-2b46-5f15" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
           <entryLinks>
             <entryLink id="ad12-567b-8b5f-2f4c" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="507a-d0c2-d204-bc44" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -705,6 +721,7 @@
             <entryLink id="9396-309c-2a11-7869" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="bd42-a7e1-ddaa-0373" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -725,6 +742,7 @@
             <entryLink id="72a9-4239-b1fd-9773" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="e5be-3ad0-ba64-e0b4" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -745,6 +763,7 @@
             <entryLink id="bc7f-38b3-1ae9-308b" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="cec9-bd3c-cdfd-90b1" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -765,6 +784,7 @@
             <entryLink id="affd-9f8f-b5f0-0b96" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="3f2d-cd74-926a-59c8" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -785,6 +805,7 @@
             <entryLink id="2e58-1be3-f2ee-4c79" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="8d61-1cbe-6e6a-a4a6" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="46.0"/>
@@ -805,6 +826,7 @@
             <entryLink id="cb8c-f5d2-edd5-f880" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="8133-fc9b-7be1-1bbb" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="52.0"/>
@@ -825,6 +847,7 @@
             <entryLink id="5a8b-fb56-6e07-c398" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="236c-6f9f-d6b1-6bf3" name="Sanitätsfahrzeug" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="57.0"/>

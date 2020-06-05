@@ -274,6 +274,17 @@ die Waffe darf ausgerichtet werden
         </rule>
       </rules>
     </categoryEntry>
+    <categoryEntry id="926b-a0bc-ca53-14db" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="9aaf-7e86-c75d-909f" name="Sanitätsfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Transportfahrzeuge können auch als Sanitätsfahrzeug eingesetzt werden. Sie dürfen über keine Bewaffnung verfügen und müssen als Sanitätsfahrzeug z.B. mit einem roten kreuz gekennzeichnet sein.
+
+-die Aufwertung kostet 15 Punkte und das Transportfahrzeug verliert seine Transportkapazität
+-im Umkreis von 20cm dürfen pro Spielzug truppübergreifend 2 Sanitätswürfe durchgeführt werden. Die Heilungsversuche sollten durch Marker am Fahrzeug dokumentiert werden.</description>
+        </rule>
+      </rules>
+    </categoryEntry>
   </categoryEntries>
   <forceEntries>
     <forceEntry id="5891-a4d8-b060-b0a9" name="Standard" publicationId="3ea7-b0db-2a41-9265" hidden="false">
@@ -608,6 +619,13 @@ mit Sichtlinie innerhalb des angegebenen Tarnradius aufhalten
       </costs>
     </selectionEntry>
     <selectionEntry id="cbfb-53ec-8652-1d86" name="Bug-MG" publicationId="eff4-e7ce-ae7a-82a6" hidden="false" collective="false" import="true" type="upgrade">
+      <modifiers>
+        <modifier type="set" field="5095-4a80-5640-e9bd" value="0.0">
+          <conditions>
+            <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="926b-a0bc-ca53-14db" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5095-4a80-5640-e9bd" type="max"/>
       </constraints>
@@ -637,6 +655,13 @@ Der Schusswinkel beträgt 45° in Fahrtrichtung.</description>
       </costs>
     </selectionEntry>
     <selectionEntry id="aa10-0c3e-1542-4433" name="Fliegerabwehr-MG" publicationId="eff4-e7ce-ae7a-82a6" hidden="false" collective="false" import="true" type="upgrade">
+      <modifiers>
+        <modifier type="set" field="3ca4-c08b-3fe0-a5f6" value="0.0">
+          <conditions>
+            <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="926b-a0bc-ca53-14db" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3ca4-c08b-3fe0-a5f6" type="max"/>
       </constraints>
@@ -673,6 +698,13 @@ das FlaMG muss in der Bewegungsphase - wenn technisch möglich - auf ein Ziel au
       </costs>
     </selectionEntry>
     <selectionEntry id="c025-cecd-5bd5-fc9b" name="Koaxial-MG" publicationId="eff4-e7ce-ae7a-82a6" hidden="false" collective="false" import="true" type="upgrade">
+      <modifiers>
+        <modifier type="set" field="7ccf-cf80-1478-1ecc" value="0.0">
+          <conditions>
+            <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="926b-a0bc-ca53-14db" type="atLeast"/>
+          </conditions>
+        </modifier>
+      </modifiers>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7ccf-cf80-1478-1ecc" type="max"/>
       </constraints>
@@ -771,15 +803,15 @@ Der Maximalwert von 16 darf nicht überschritten werden.</description>
       </costs>
     </selectionEntry>
     <selectionEntry id="89c1-55c4-6a24-6711" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-      <rules>
-        <rule id="9009-c93b-4009-fd75" name="Sanitätsfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
-          <description>
-Transportfahrzeuge können auch als Sanitätsfahrzeug eingesetzt werden. Sie dürfen über keine Bewaffnung verfügen und müssen als Sanitätsfahrzeug z.B. mit einem roten kreuz gekennzeichnet sein.
-
--die Aufwertung kostet 15 Punkte und das Transportfahrzeug verliert seine Transportkapazität
--im Umkreis von 20cm dürfen pro Spielzug truppübergreifend 2 Sanitätswürfe durchgeführt werden. Die Heilungsversuche sollten durch Marker am Fahrzeug dokumentiert werden.</description>
-        </rule>
-      </rules>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d47f-3f10-4141-68e8" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="0476-e1a1-38b3-84ff" name="Sanitätsfahrzeug" hidden="false" targetId="926b-a0bc-ca53-14db" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="15.0"/>
+      </costs>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
@@ -830,25 +862,40 @@ Transportfahrzeuge können auch als Sanitätsfahrzeug eingesetzt werden. Sie dü
                   <infoLinks>
                     <infoLink id="4cea-64a0-8659-a0b7" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
                   </infoLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
                 </selectionEntry>
                 <selectionEntry id="a6dd-fe7b-31b5-d3a4" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
                   <infoLinks>
                     <infoLink id="84a7-197a-00e9-dd43" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
                   </infoLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
                 </selectionEntry>
                 <selectionEntry id="fa2f-21a1-c6d8-84d8" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
                   <infoLinks>
                     <infoLink id="1dd7-1d36-765a-df89" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="d9cd-f539-89cb-c339" type="profile"/>
                   </infoLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
                 </selectionEntry>
                 <selectionEntry id="a944-74f0-bbe8-2b00" name="Leichtes MG" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
                   <infoLinks>
                     <infoLink id="55ba-b8a1-ff1e-e73d" name="Leichtes Maschinengewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="c720-3566-9ecb-63b8" type="profile"/>
                   </infoLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
                 </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
     </selectionEntryGroup>
