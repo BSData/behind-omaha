@@ -770,6 +770,17 @@ Der Maximalwert von 16 darf nicht überschritten werden.</description>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="10.0"/>
       </costs>
     </selectionEntry>
+    <selectionEntry id="89c1-55c4-6a24-6711" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+      <rules>
+        <rule id="9009-c93b-4009-fd75" name="Sanitätsfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Transportfahrzeuge können auch als Sanitätsfahrzeug eingesetzt werden. Sie dürfen über keine Bewaffnung verfügen und müssen als Sanitätsfahrzeug z.B. mit einem roten kreuz gekennzeichnet sein.
+
+-die Aufwertung kostet 15 Punkte und das Transportfahrzeug verliert seine Transportkapazität
+-im Umkreis von 20cm dürfen pro Spielzug truppübergreifend 2 Sanitätswürfe durchgeführt werden. Die Heilungsversuche sollten durch Marker am Fahrzeug dokumentiert werden.</description>
+        </rule>
+      </rules>
+    </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
     <selectionEntryGroup id="0c8b-1563-3792-89e1" name="Zusatzausrüstung" publicationId="eff4-e7ce-ae7a-82a6" hidden="false" collective="false" import="true">
@@ -784,6 +795,62 @@ Der Maximalwert von 16 darf nicht überschritten werden.</description>
         <entryLink id="3c1e-a538-75da-24dc" name="zusätzliche Frontpanzerung" hidden="false" collective="false" import="true" targetId="e09c-1e4c-ea41-9373" type="selectionEntry"/>
         <entryLink id="9d8b-6f07-1945-2135" name="zusätzliche Seitenpanzerung" hidden="false" collective="false" import="true" targetId="98fd-9d18-44c1-0cde" type="selectionEntry"/>
       </entryLinks>
+    </selectionEntryGroup>
+    <selectionEntryGroup id="f12e-658a-5687-a9ac" name="Begleitinfantrie" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="37aa-da55-3e6a-a16b">
+      <selectionEntries>
+        <selectionEntry id="37aa-da55-3e6a-a16b" name="Schütze" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="5.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7080-04fc-05e3-2d82" type="max"/>
+            <constraint field="selections" scope="parent" value="5.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e7ed-eab6-9a5b-b450" type="min"/>
+          </constraints>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="096d-7c1f-8311-1f39" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="fd7f-2e99-17ea-e6f1">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8f41-959d-58c2-1ecf" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6d8a-0de9-c0e9-bdf6" type="min"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="fd7f-2e99-17ea-e6f1" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                  <infoLinks>
+                    <infoLink id="81f2-2f7d-0137-71b0" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
+                  </infoLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="5fca-0175-6fb1-4e9f" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                  <infoLinks>
+                    <infoLink id="97c5-6e44-2fae-321f" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
+                  </infoLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="cf3f-eb15-fbc1-de0b" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                  <infoLinks>
+                    <infoLink id="4cea-64a0-8659-a0b7" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
+                  </infoLinks>
+                </selectionEntry>
+                <selectionEntry id="a6dd-fe7b-31b5-d3a4" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                  <infoLinks>
+                    <infoLink id="84a7-197a-00e9-dd43" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
+                  </infoLinks>
+                </selectionEntry>
+                <selectionEntry id="fa2f-21a1-c6d8-84d8" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                  <infoLinks>
+                    <infoLink id="1dd7-1d36-765a-df89" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="d9cd-f539-89cb-c339" type="profile"/>
+                  </infoLinks>
+                </selectionEntry>
+                <selectionEntry id="a944-74f0-bbe8-2b00" name="Leichtes MG" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                  <infoLinks>
+                    <infoLink id="55ba-b8a1-ff1e-e73d" name="Leichtes Maschinengewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="c720-3566-9ecb-63b8" type="profile"/>
+                  </infoLinks>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
   <sharedProfiles>
