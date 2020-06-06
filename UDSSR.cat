@@ -184,7 +184,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="54ac-e1f4-44ba-d3f9" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="694a-55da-40d7-c37b" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -201,7 +200,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="1534-a467-0f81-6246" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="531b-c268-7ff2-4a65" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="47.0"/>
@@ -218,7 +216,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="1c19-ff85-f2e8-d30f" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="9a3e-3edf-2665-dc34" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="47.0"/>
@@ -235,7 +232,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="8499-015a-2151-739c" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="913f-dbbc-ebf1-20fb" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="47.0"/>
@@ -252,7 +248,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="572f-65c4-3f4d-a4a2" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="c8fc-aa5c-7810-659e" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -269,7 +264,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="13e3-63c4-2a1a-aa1b" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="c748-b4dc-d22d-2f9d" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -286,7 +280,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="601c-bf33-3818-b0e7" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="63a4-069e-5764-51c3" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -303,7 +296,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="9312-8904-b1ba-68b3" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="525a-1db8-8752-eabf" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -320,7 +312,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="5016-c761-44e7-d611" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="b4ca-9c24-b16a-3429" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -337,7 +328,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="fe63-6da6-d94b-c9f6" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="2bfb-ced4-5ab7-ec79" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -354,7 +344,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="2a09-f5c7-3399-4925" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="f265-a854-23ec-1527" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -371,7 +360,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="340d-90a2-c34e-b616" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="6c36-e032-c211-7866" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="48.0"/>
@@ -388,7 +376,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="11f2-86c6-c5a2-4a4c" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="5cd2-009f-ee36-59f1" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
+        <entryLink id="f7ba-620e-3b80-5553" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="50.0"/>
@@ -405,7 +393,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="5810-c8e1-a4d4-1611" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="92d7-045a-3e47-3ac5" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
+        <entryLink id="bfc8-6f96-6dec-11e4" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="60.0"/>
@@ -422,7 +410,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="c174-5329-b169-8644" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="f94f-b854-701b-cfb6" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
+        <entryLink id="3dcc-c323-f552-1e5c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="60.0"/>
@@ -439,7 +427,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="7170-2ba5-3420-c263" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="8d46-571f-f24d-7f3b" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="56.0"/>
@@ -456,7 +443,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="d68f-90b4-f568-bf04" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="5580-3163-3cc6-543e" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="56.0"/>
@@ -473,7 +459,6 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="fd38-1c56-8ead-f25d" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
-        <entryLink id="988a-7ecc-5fbf-b849" name="Sanitätsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" targetId="89c1-55c4-6a24-6711" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="56.0"/>
@@ -538,6 +523,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="1f24-3ecd-8a2b-7b04" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="ce91-78e5-f323-ebf2" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="83.0"/>
@@ -554,6 +540,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="9b19-b245-c49c-0fea" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="29f0-f8bc-5dac-8da9" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="144.0"/>
@@ -791,6 +778,7 @@
       </categoryLinks>
       <entryLinks>
         <entryLink id="8e31-19f7-f8a3-828a" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="7f59-f852-5aef-8b8d" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="58.0"/>
@@ -2126,6 +2114,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="99a4-4225-9dfc-5be5" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="ed0d-ead5-526a-75f3" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="68.0"/>
@@ -2144,6 +2133,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="4b95-32b4-e1d0-209d" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="cb01-8bc4-6c0a-800c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="104.0"/>
@@ -2228,6 +2218,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="f7b0-92c7-a3fe-dee8" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="da46-8033-045a-5873" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="91.0"/>
@@ -2249,6 +2240,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="2aee-8a11-a607-8fd4" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="df6e-a4d1-ccb0-99e2" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="96.0"/>
@@ -2270,6 +2262,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="dc42-ff42-e4b8-3d19" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="1ce7-d9c5-7dc5-b295" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="100.0"/>
@@ -2291,6 +2284,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="806a-ad91-8f6b-dafe" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="4069-9adc-79bb-7a0d" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="100.0"/>
@@ -2312,6 +2306,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="dc23-02df-ad3b-29fb" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="ad7c-dcf6-4a72-55a3" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="103.0"/>
@@ -2333,6 +2328,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="be42-f9ca-4b1c-9504" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="a837-a75f-6d39-2ca8" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="103.0"/>
@@ -2355,6 +2351,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="795e-a091-992a-1313" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="2b43-5c7e-9694-c512" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="128.0"/>
@@ -2378,6 +2375,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="16ed-3ce1-cb19-e8e7" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="69a0-3fa3-5a58-fbe7" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="189.0"/>
@@ -2399,6 +2397,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="5895-c7ef-6889-bc06" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="bb0b-5054-82a9-6e90" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="229.0"/>
@@ -2420,6 +2419,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="73c7-f9bb-f9b3-ab39" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="ef95-d54c-679c-580b" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="255.0"/>
@@ -2441,6 +2441,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="bbba-00e4-6a5d-0fc1" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="5835-ad29-1e6f-4fb1" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="246.0"/>
@@ -2462,6 +2463,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="47e1-08c8-365f-f77e" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="5de1-8398-532c-cb78" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="236.0"/>
@@ -2483,6 +2485,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="c327-ce62-d446-6438" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="7138-473b-15b3-8efc" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="260.0"/>
@@ -2506,6 +2509,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="4fae-af52-b21c-ec11" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="86fe-ac7c-f52f-bdcf" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="321.0"/>
@@ -2527,6 +2531,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="307f-ab84-b7fb-be28" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="6b3f-32ff-ec07-de93" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="262.0"/>
@@ -2548,6 +2553,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="d06e-b827-b590-fe40" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="6775-f0ba-9e10-7b2c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="360.0"/>
@@ -2571,6 +2577,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="442a-d689-758e-1d39" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="801c-bfc9-73fc-727c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="321.0"/>
@@ -2590,6 +2597,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="3905-53c8-9cb2-c3ea" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="cbfe-3cf7-8d48-e23d" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="126.0"/>
@@ -2609,6 +2617,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="fcdc-0864-09d2-b2d7" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="a41d-0c9e-8ff2-4d4d" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="126.0"/>
@@ -2628,6 +2637,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="f466-9f18-d8b1-de23" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="ccaa-6334-d6b4-3acc" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="190.0"/>
@@ -2647,6 +2657,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="f867-2050-24eb-9dfb" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="9e2f-9b67-2051-5e7b" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="190.0"/>
@@ -2666,6 +2677,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="e43a-5fd8-267c-40cf" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="96fe-8519-0602-a810" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="188.0"/>
@@ -2685,6 +2697,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="0f6b-a6d7-7bdc-c524" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="42a2-a05a-45d4-fdbb" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="188.0"/>
@@ -2702,6 +2715,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="f681-48d5-eecf-bc48" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="cc26-6b20-0c83-d8ff" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="180.0"/>
@@ -2719,6 +2733,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="30c6-bf9d-2f73-53cc" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="ad8a-9031-2abe-c381" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="186.0"/>
@@ -2736,6 +2751,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="3cb1-6436-72db-0a6d" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="36eb-27be-fde2-e012" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="264.0"/>
@@ -2755,6 +2771,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="248f-82b2-74cc-0cd9" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="c868-4f24-cb37-0f52" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="289.0"/>
@@ -2774,6 +2791,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="7041-c8ea-dcd7-6437" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="6481-d40e-bad5-2114" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="289.0"/>
@@ -2791,6 +2809,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="0a7c-f0f3-8504-1cc3" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="e613-75e2-2e22-235d" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="272.0"/>
@@ -2810,6 +2829,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="3df0-b0e9-2402-2d26" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="7c98-5410-561d-748e" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="364.0"/>
@@ -2827,6 +2847,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="794d-7c86-05e1-51a5" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="b1da-4a8a-7b68-2d75" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="323.0"/>
@@ -2844,6 +2865,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="a49b-be46-ce97-ab7f" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="894c-8e97-c22b-3061" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="323.0"/>
@@ -2865,6 +2887,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="8800-0d22-9c4a-fa12" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="47ad-a7b3-bca9-3f41" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="118.0"/>
@@ -2886,6 +2909,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="8471-02b6-1648-0fad" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="8380-d3b5-0252-f5cc" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="118.0"/>
@@ -2907,6 +2931,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="c9d2-1173-6be4-db45" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="7536-06ab-2738-75fb" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="118.0"/>
@@ -2929,6 +2954,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="0574-0613-aa27-9883" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="db7e-ec89-a6ac-191e" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="131.0"/>
@@ -2947,6 +2973,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       <entryLinks>
         <entryLink id="ff34-8255-8b6c-1e03" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
         <entryLink id="bd3f-83eb-b985-3f29" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+        <entryLink id="38b2-8473-cf7a-4720" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="269.0"/>
@@ -2969,6 +2996,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="f3d9-6c19-2f0e-10d2" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="519e-d5e3-4f16-82e6" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="295.0"/>
@@ -2990,6 +3018,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="1bf6-9b6b-f0a9-ca96" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="ec79-80a0-e6d7-2f49" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="223.0"/>
@@ -3030,6 +3059,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="b695-87f4-4109-5164" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="27e4-13b5-ff1f-6f3e" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="141.0"/>
@@ -3052,6 +3082,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="4996-8c51-af45-1195" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="cdc9-c920-e3db-c6b0" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="141.0"/>
@@ -3074,28 +3105,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="fa8e-bd2c-8771-19b6" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
-      </entryLinks>
-      <costs>
-        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="150.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="2bd8-1b34-4d74-8b1f" name="D-38" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" type="unit">
-      <infoLinks>
-        <infoLink id="aa29-38c7-1792-a2b1" name="BT-2 (A-43)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="10ed-a6cf-26e4-0579" type="profile"/>
-        <infoLink id="ae9c-157e-cadc-abd4" name="76,2mm K-28 (DS)" publicationId="10e8-2556-101e-7b7b" hidden="false" targetId="b3f7-d63e-4369-aa1d" type="profile"/>
-        <infoLink id="2e6b-5621-df21-cc65" name="76,2mm K-28 (IDS)" hidden="false" targetId="cf3f-5db5-ac99-4738" type="profile"/>
-      </infoLinks>
-      <categoryLinks>
-        <categoryLink id="0f30-8d20-8148-d8b9" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
-        <categoryLink id="28b4-70ac-863d-34fb" name="New CategoryLink" hidden="false" targetId="187c-f416-c2ce-29f1" primary="true"/>
-        <categoryLink id="7574-ce61-b5f8-12a4" name="D-38" hidden="false" targetId="1050-7226-bc4a-e3fb" primary="false"/>
-      </categoryLinks>
-      <entryLinks>
-        <entryLink id="0246-a10b-c476-4c53" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
-          <entryLinks>
-            <entryLink id="c247-51d4-6d29-24b2" name="Koaxial-MG" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
-          </entryLinks>
-        </entryLink>
+        <entryLink id="e6db-98b5-4323-7e8d" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="150.0"/>
@@ -3185,6 +3195,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="e6c9-f0ff-667a-f566" name="Zusatzausrüstung" publicationId="10e8-2556-101e-7b7b" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="5562-7c8e-34ab-efc3" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="91.0"/>
@@ -3203,6 +3214,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </categoryLinks>
       <entryLinks>
         <entryLink id="aeaa-eaeb-a4d9-17ba" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup"/>
+        <entryLink id="a0cd-8bce-d581-e5eb" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="92.0"/>

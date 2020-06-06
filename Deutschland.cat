@@ -251,6 +251,37 @@
       </costs>
     </selectionEntry>
     <selectionEntry id="cd61-4c42-5d2c-5cbe" name="VW Typ 82 Kübelwagen" publicationId="eff4-e7ce-ae7a-82a6" hidden="false" collective="false" import="true" type="unit">
+      <modifierGroups>
+        <modifierGroup>
+          <repeats>
+            <repeat field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="ec7c-e71f-8c27-53be" repeats="1" roundUp="false"/>
+          </repeats>
+          <modifiers>
+            <modifier type="set" field="hidden" value="false">
+              <conditionGroups>
+                <conditionGroup type="or">
+                  <conditions>
+                    <condition field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="74d7-5f6f-303b-c1d8" type="instanceOf"/>
+                    <condition field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7a43-9754-cb47-b5ee" type="instanceOf"/>
+                    <condition field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="9aa6-d948-aff0-0306" type="instanceOf"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="set" field="hidden" value="true">
+              <conditionGroups>
+                <conditionGroup type="or">
+                  <conditions>
+                    <condition field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="74d7-5f6f-303b-c1d8" type="notInstanceOf"/>
+                    <condition field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7a43-9754-cb47-b5ee" type="notInstanceOf"/>
+                    <condition field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="9aa6-d948-aff0-0306" type="notInstanceOf"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
       <infoLinks>
         <infoLink id="c6bb-1ec2-90cf-a750" name="VW Typ 82 Kübelwagen" publicationId="eff4-e7ce-ae7a-82a6" hidden="false" targetId="ae49-7a44-4879-0fe6" type="profile"/>
       </infoLinks>
@@ -873,7 +904,7 @@
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="46.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9d52-200b-bc44-ad42" name="Werkstatt-LKW" publicationId="eff4-e7ce-ae7a-82a6" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="9d52-200b-bc44-ad42" name="Werkstatt-LKW" publicationId="eff4-e7ce-ae7a-82a6" hidden="true" collective="false" import="true" type="unit">
       <infoLinks>
         <infoLink id="90ba-c9b7-9710-3bb2" name="Werkstatt-LKW" publicationId="eff4-e7ce-ae7a-82a6" hidden="false" targetId="88f9-5729-d3d6-fc56" type="profile"/>
       </infoLinks>
@@ -883,7 +914,7 @@
         <categoryLink id="c076-779e-00bc-11b9" name="Werkstatt-LKW" hidden="false" targetId="40a9-d9f8-7e68-31de" primary="false"/>
       </categoryLinks>
       <entryLinks>
-        <entryLink id="57a3-4aa7-e853-718c" name="Kampfwertsteigerungen_ger" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+        <entryLink id="57a3-4aa7-e853-718c" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
           <entryLinks>
             <entryLink id="a8a6-d986-443b-8fd1" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
@@ -3735,7 +3766,7 @@
                 <categoryLink id="2dff-13e4-ea23-89e5" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup id="14a0-2ee9-79f2-5bb3" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="9327-e7de-a336-05bf">
+                <selectionEntryGroup id="14a0-2ee9-79f2-5bb3" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
                   <constraints>
                     <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9d35-e19a-7082-2327" type="max"/>
                     <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="574c-bfa8-6a51-15e9" type="min"/>
@@ -3743,40 +3774,47 @@
                   <categoryLinks>
                     <categoryLink id="bcdd-b663-0d9b-9ff1" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
                   </categoryLinks>
-                  <selectionEntries>
-                    <selectionEntry id="02a5-63e6-65fb-8f2a" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="05e8-cf46-5237-5b7b" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="5ae1-67a7-381c-edb5" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="24fc-adac-3fdc-a3d1" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="9327-e7de-a336-05bf" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="d97f-7aba-eedf-1f20" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="9bda-4220-5610-dd91" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
-                      <infoLinks>
-                        <infoLink id="5fd3-1f39-7182-5486" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                  </selectionEntries>
+                  <selectionEntryGroups>
+                    <selectionEntryGroup id="60bc-9d1e-b1b4-8290" name="Leichte Infantriewaffen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="a6cf-fe67-9838-2f16">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7c11-929a-7831-27cd" type="max"/>
+                      </constraints>
+                      <selectionEntries>
+                        <selectionEntry id="7bcf-5c73-7b02-f5d3" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="1c9b-b445-0986-b0d2" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="7019-6fe5-683b-fbb5" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="ce33-0d63-9dcb-c60e" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="989f-e8c3-0609-7a39" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
+                          <infoLinks>
+                            <infoLink id="afba-23e4-7477-92db" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="a6cf-fe67-9838-2f16" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="df91-b764-86cc-2e72" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
+                          </costs>
+                        </selectionEntry>
+                      </selectionEntries>
+                    </selectionEntryGroup>
+                  </selectionEntryGroups>
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <costs>
@@ -3793,48 +3831,55 @@
                 <categoryLink id="32da-5012-a5a7-f60b" name="Offizier" hidden="false" targetId="46e9-f2a9-411e-bb10" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup id="211c-cd01-a6fa-ac35" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="3238-ae22-3665-2e21">
+                <selectionEntryGroup id="8f3e-04c3-cab8-9fb4" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
                   <constraints>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a6b2-bd21-1184-e8f6" type="max"/>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5904-7d0a-8cc6-c9c9" type="min"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6404-7cd1-a70b-c2f6" type="max"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="77d6-2c50-43a4-b7e2" type="min"/>
                   </constraints>
                   <categoryLinks>
-                    <categoryLink id="8f8f-9186-6731-2549" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
+                    <categoryLink id="bff6-c33b-e242-f90e" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
                   </categoryLinks>
-                  <selectionEntries>
-                    <selectionEntry id="3238-ae22-3665-2e21" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="961e-b107-9b88-19ba" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="b2be-7a8f-0347-39b7" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="80f6-c1bf-c045-7f6f" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="a4b3-c16b-560b-3ede" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="d8b1-87da-9b57-852f" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="4640-14dd-57e2-fe04" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
-                      <infoLinks>
-                        <infoLink id="fa88-76d3-d940-c4f9" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                  </selectionEntries>
+                  <selectionEntryGroups>
+                    <selectionEntryGroup id="0f91-87c7-acee-a670" name="Leichte Infantriewaffen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="da89-06e4-26fd-0fc6">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d99e-1a0b-73f5-b527" type="max"/>
+                      </constraints>
+                      <selectionEntries>
+                        <selectionEntry id="a659-75bb-2cdb-4e65" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="d896-c5d3-5414-f31e" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="da89-06e4-26fd-0fc6" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="113d-531b-5505-0f9e" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="45c7-2eb2-7c2f-4b86" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
+                          <infoLinks>
+                            <infoLink id="4b6a-9f17-e082-520e" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="0f36-122a-0dd4-7ebe" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="7783-a0e7-d9bf-faca" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
+                          </costs>
+                        </selectionEntry>
+                      </selectionEntries>
+                    </selectionEntryGroup>
+                  </selectionEntryGroups>
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <costs>
@@ -3849,64 +3894,71 @@
                 <categoryLink id="6088-298e-8200-cfb2" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup id="dafc-35b8-4e10-10ec" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="3e17-be7e-6579-c78f">
+                <selectionEntryGroup id="552c-8066-ceef-7a87" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
                   <constraints>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3f0b-0c2b-4f5b-122d" type="max"/>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3342-b674-26a4-afc5" type="min"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="754d-2953-d579-169e" type="max"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b4d6-ff34-bbb7-cf06" type="min"/>
                   </constraints>
                   <categoryLinks>
-                    <categoryLink id="ce4a-4ffd-ab6d-0a14" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
+                    <categoryLink id="e7fe-e225-8abd-bdc6" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
                   </categoryLinks>
-                  <selectionEntries>
-                    <selectionEntry id="eccf-5c86-1013-124b" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="3315-9c4a-7f70-90c8" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="730c-bb12-df4f-53df" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="1055-f024-f3d7-8af7" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="3e17-be7e-6579-c78f" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="e1b4-829f-6a29-9faa" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="fe7c-ba43-6b4f-26b9" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
-                      <infoLinks>
-                        <infoLink id="4e68-b6b6-988b-f43a" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="8c36-07dd-5374-c269" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="9f52-61f4-165c-3327" name="Automatikgewehr" hidden="false" targetId="d9cd-f539-89cb-c339" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="8.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="5ebe-9b4f-4027-1079" name="Leichtes MG" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="b12a-07a9-a549-7083" name="Leichtes Maschinengewehr" hidden="false" targetId="c720-3566-9ecb-63b8" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="9.0"/>
-                      </costs>
-                    </selectionEntry>
-                  </selectionEntries>
+                  <selectionEntryGroups>
+                    <selectionEntryGroup id="d290-dda9-a6c6-f998" name="Leichte Infantriewaffen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="69ff-2ad2-b943-4819">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3369-1190-19a5-31d8" type="max"/>
+                      </constraints>
+                      <selectionEntries>
+                        <selectionEntry id="a9cc-6da6-e911-4718" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="a654-094e-8752-8375" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="97cf-dca7-a837-a4c0" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="8654-b45c-98de-058f" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="88a3-235b-94e3-cb22" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
+                          <infoLinks>
+                            <infoLink id="29a7-6980-090e-d9ad" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="69ff-2ad2-b943-4819" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="8c02-0408-eeff-4d79" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="0c0f-954e-2ddb-edd5" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="d342-475c-0e20-977a" name="Automatikgewehr" hidden="false" targetId="d9cd-f539-89cb-c339" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="8.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="e452-8ffe-5130-1658" name="Leichtes MG" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="096f-bd62-b21e-bdd9" name="Leichtes Maschinengewehr" hidden="false" targetId="c720-3566-9ecb-63b8" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="9.0"/>
+                          </costs>
+                        </selectionEntry>
+                      </selectionEntries>
+                    </selectionEntryGroup>
+                  </selectionEntryGroups>
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <costs>
@@ -3922,52 +3974,59 @@
                 <categoryLink id="3a9e-68e1-a248-5ed7" name="Sanitäter" hidden="false" targetId="0cac-a865-aa66-f4a5" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup id="3495-cfcc-1f6e-1936" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="2abb-252f-e47b-bf63">
+                <selectionEntryGroup id="baf7-b22e-6d0f-fbf5" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
                   <constraints>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0202-0eeb-582e-738e" type="max"/>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9123-6a5e-0c30-e0c7" type="min"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e98c-92cf-aba7-1775" type="max"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2780-35b5-8a76-20b7" type="min"/>
                   </constraints>
                   <categoryLinks>
-                    <categoryLink id="b37e-4c4b-5258-0a2e" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
+                    <categoryLink id="fd15-6fd4-fd28-e4c3" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
                   </categoryLinks>
-                  <selectionEntries>
-                    <selectionEntry id="3473-dbee-12ea-8b8d" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="ffde-374d-9660-49b3" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="2abb-252f-e47b-bf63" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="6a6a-31cc-5481-7b05" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="193c-62e0-43f3-dc86" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
-                      <infoLinks>
-                        <infoLink id="3c1c-ebfe-3802-33eb" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                  </selectionEntries>
+                  <selectionEntryGroups>
+                    <selectionEntryGroup id="ac81-7aa2-1592-f52f" name="Leichte Infantriewaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="fe49-978b-3c6f-e89f">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2e75-a8cc-3d7e-eb7c" type="max"/>
+                      </constraints>
+                      <selectionEntries>
+                        <selectionEntry id="fe49-978b-3c6f-e89f" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="1e1c-e23f-8975-233b" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="1025-bfa1-a120-86a4" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="526e-fdd6-3f9e-2401" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="58de-2e4e-edad-5129" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
+                          <infoLinks>
+                            <infoLink id="e8b9-0b9d-666f-4280" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                          </costs>
+                        </selectionEntry>
+                      </selectionEntries>
+                    </selectionEntryGroup>
+                  </selectionEntryGroups>
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <costs>
                 <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="10.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="1c6f-ca9a-364b-b345" name="Soldat" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="model">
+            <selectionEntry id="1c6f-ca9a-364b-b345" name="Schütze" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="model">
               <categoryLinks>
                 <categoryLink id="7673-6fc7-ab5f-a34c" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup id="7988-9d29-5241-a588" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="102e-f4cf-3a73-5b81">
+                <selectionEntryGroup id="7988-9d29-5241-a588" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
                   <constraints>
                     <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="baa5-1428-9eb5-04b7" type="max"/>
                     <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5032-b769-3f31-6338" type="min"/>
@@ -3975,56 +4034,103 @@
                   <categoryLinks>
                     <categoryLink id="bc57-b73c-522e-1362" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
                   </categoryLinks>
-                  <selectionEntries>
-                    <selectionEntry id="30f5-e6b7-47af-047c" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="9de6-a99b-930a-19d5" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="6fc9-217a-bb5f-434e" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="e94e-baf6-d40c-9732" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="102e-f4cf-3a73-5b81" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="e6c7-ba71-c69d-8ffb" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="d3d2-8622-c8bd-256a" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
-                      <infoLinks>
-                        <infoLink id="2f04-7774-8289-de40" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="feba-85a2-3102-7b72" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="2b40-0875-bea8-8ccc" name="Automatikgewehr" hidden="false" targetId="d9cd-f539-89cb-c339" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="8.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="cd2e-263e-e670-69d9" name="Leichtes MG" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="f09e-c7b7-c26b-5e9f" name="Leichtes Maschinengewehr" hidden="false" targetId="c720-3566-9ecb-63b8" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="9.0"/>
-                      </costs>
-                    </selectionEntry>
-                  </selectionEntries>
+                  <selectionEntryGroups>
+                    <selectionEntryGroup id="da70-8600-4cfa-e590" name="Schwere Infantriewaffen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
+                      <modifiers>
+                        <modifier type="set" field="1ed1-f8d0-f23b-315e" value="4.0">
+                          <conditions>
+                            <condition field="selections" scope="ac06-1133-54f1-f261" value="10.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="model" type="equalTo"/>
+                          </conditions>
+                        </modifier>
+                      </modifiers>
+                      <constraints>
+                        <constraint field="selections" scope="ac06-1133-54f1-f261" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="1ed1-f8d0-f23b-315e" type="max"/>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="32af-82a8-3e14-f2a5" type="max"/>
+                      </constraints>
+                      <entryLinks>
+                        <entryLink id="d265-2055-c8da-8c68" name="Maschinengewehr" hidden="false" collective="false" import="true" targetId="21c6-12cd-e1de-33b1" type="selectionEntry">
+                          <constraints>
+                            <constraint field="selections" scope="ac06-1133-54f1-f261" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="39a1-f774-c641-b4e8" type="max"/>
+                          </constraints>
+                        </entryLink>
+                        <entryLink id="4288-4efb-2118-aa61" name="Flammenwerfer" hidden="false" collective="false" import="true" targetId="7935-45a9-d7cf-159e" type="selectionEntry">
+                          <constraints>
+                            <constraint field="selections" scope="ac06-1133-54f1-f261" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="2e2e-e779-6424-3ad2" type="max"/>
+                          </constraints>
+                        </entryLink>
+                        <entryLink id="3d24-1c7f-4db3-8808" name="Leichter Mörser/Gewehrgranate" hidden="false" collective="false" import="true" targetId="f222-35e9-a60f-dc68" type="selectionEntry">
+                          <constraints>
+                            <constraint field="selections" scope="ac06-1133-54f1-f261" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="45b0-7302-f999-4d7a" type="max"/>
+                          </constraints>
+                        </entryLink>
+                        <entryLink id="6a50-f987-c6ba-c55c" name="Panzerbüchse" hidden="false" collective="false" import="true" targetId="2b98-5d01-49c3-663a" type="selectionEntry">
+                          <constraints>
+                            <constraint field="selections" scope="ac06-1133-54f1-f261" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="c7f6-788d-8160-1910" type="max"/>
+                          </constraints>
+                        </entryLink>
+                        <entryLink id="d2d5-b8be-71aa-78fc" name="Panzerabwerhandwaffe" hidden="false" collective="false" import="true" targetId="5d62-fa66-6453-80aa" type="selectionEntry">
+                          <constraints>
+                            <constraint field="selections" scope="ac06-1133-54f1-f261" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="4f73-f33b-edc9-57f0" type="max"/>
+                          </constraints>
+                        </entryLink>
+                      </entryLinks>
+                    </selectionEntryGroup>
+                    <selectionEntryGroup id="6d51-0901-4293-8dc1" name="Leichte Infantriewaffen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="1574-f3d6-d871-9f3d">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="61a3-df1d-a025-7104" type="max"/>
+                      </constraints>
+                      <selectionEntries>
+                        <selectionEntry id="8353-e8a1-f3e6-047e" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="a9cd-ddd7-393c-ae76" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="68d1-982c-1990-3135" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="57cb-6fe2-74a4-7f26" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="8e9a-4156-3e84-5796" name="Leichtes MG" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="7000-7b13-3790-b088" name="Leichtes Maschinengewehr" hidden="false" targetId="c720-3566-9ecb-63b8" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="9.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="2ae4-0e20-6648-ddd1" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
+                          <infoLinks>
+                            <infoLink id="0eae-7ba1-5171-48f1" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="bb2b-2471-eb1e-9dea" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="5df3-b20c-727a-f0e4" name="Automatikgewehr" hidden="false" targetId="d9cd-f539-89cb-c339" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="8.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="1574-f3d6-d871-9f3d" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="d67a-9b11-d140-2ead" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
+                          </costs>
+                        </selectionEntry>
+                      </selectionEntries>
+                    </selectionEntryGroup>
+                  </selectionEntryGroups>
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <costs>
@@ -4053,63 +4159,70 @@ erhält ggfs. den Tarnbonus (siehe Abschnitt 1.2.7„Tarnbonus“)
                 <categoryLink id="abac-6236-f30a-2216" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
               </categoryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup id="fb39-7f33-f39e-bd5a" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="4447-e7b8-c120-f61d">
+                <selectionEntryGroup id="8993-8101-2a30-489a" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
                   <constraints>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cd8a-5449-2ff9-b176" type="max"/>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6b0f-3e8c-90d4-8d97" type="min"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b631-9c06-c32c-f2d1" type="max"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a679-067e-ef53-2d46" type="min"/>
                   </constraints>
                   <categoryLinks>
-                    <categoryLink id="452f-d9d8-8a74-f6e9" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
+                    <categoryLink id="2926-0f33-31a2-c6ee" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
                   </categoryLinks>
-                  <selectionEntries>
-                    <selectionEntry id="348f-8292-fcb8-6704" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="2446-c448-6622-1037" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="4447-e7b8-c120-f61d" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="86c1-bcb9-9caf-980e" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="0d3a-a7dc-9a3e-79f1" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
-                      <infoLinks>
-                        <infoLink id="fe3f-0cdb-4850-76ec" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="2e43-b362-cbaa-5370" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="07c8-d2fe-b38b-7ee3" name="Automatikgewehr" hidden="false" targetId="d9cd-f539-89cb-c339" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="8.0"/>
-                      </costs>
-                    </selectionEntry>
-                    <selectionEntry id="375f-b473-2649-5cd6" name="Leichtes MG" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-                      <infoLinks>
-                        <infoLink id="9ddd-9bf1-6228-94a5" name="Leichtes Maschinengewehr" hidden="false" targetId="c720-3566-9ecb-63b8" type="profile"/>
-                      </infoLinks>
-                      <costs>
-                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="9.0"/>
-                      </costs>
-                    </selectionEntry>
-                  </selectionEntries>
+                  <selectionEntryGroups>
+                    <selectionEntryGroup id="5938-14cb-e491-8622" name="Leichte Infantriewaffen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="4f2d-3b3e-e3f4-8fbb">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9702-df9b-ae66-6e79" type="max"/>
+                      </constraints>
+                      <selectionEntries>
+                        <selectionEntry id="2f35-ff80-f5c1-e8f8" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="089e-b773-e7ef-f8e8" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="dcdd-bed0-18eb-8787" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
+                          <infoLinks>
+                            <infoLink id="2e2f-6259-c250-510c" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="4f2d-3b3e-e3f4-8fbb" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="d25b-2769-9d44-b5ac" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="ffdf-9357-94b4-7737" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="6d81-f1aa-ab88-e8df" name="Automatikgewehr" hidden="false" targetId="d9cd-f539-89cb-c339" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="8.0"/>
+                          </costs>
+                        </selectionEntry>
+                        <selectionEntry id="8172-9f12-35ac-5ca9" name="Leichtes MG" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                          <infoLinks>
+                            <infoLink id="0942-c42c-5641-99dd" name="Leichtes Maschinengewehr" hidden="false" targetId="c720-3566-9ecb-63b8" type="profile"/>
+                          </infoLinks>
+                          <costs>
+                            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="9.0"/>
+                          </costs>
+                        </selectionEntry>
+                      </selectionEntries>
+                    </selectionEntryGroup>
+                  </selectionEntryGroups>
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <costs>
                 <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="10.0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="f5e2-7508-1f42-d86f" name="Soldat (IUW)" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="model">
+            <selectionEntry id="f5e2-7508-1f42-d86f" name="Schütze (IUW)" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="model">
               <modifierGroups>
                 <modifierGroup>
                   <modifiers>
@@ -5508,6 +5621,146 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
                   </entryLinks>
                   <costs>
                     <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="61.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e04d-d6cc-0324-5e88" name="Spieloptionen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="6eee-4e75-3e54-63a8" name="Spieloptionen" hidden="false" targetId="ec7c-e71f-8c27-53be" primary="true"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="c4ef-51d2-fb89-4783" name="Auswahl- und Modelloptionen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
+          <selectionEntries>
+            <selectionEntry id="b511-2c0d-5751-a1a2" name="Exoten" publicationId="3ea7-b0db-2a41-9265" hidden="true" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8905-61b0-ce26-e2ff" type="max"/>
+              </constraints>
+              <categoryLinks>
+                <categoryLink id="31ff-3b60-6a5f-c913" name="Spieloption: Exotenliste" hidden="false" targetId="f720-a832-fc0b-bc46" primary="false"/>
+              </categoryLinks>
+              <costs>
+                <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="9dc5-77cc-dc91-1493" name="Beutefahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="true" collective="false" import="true">
+              <categoryLinks>
+                <categoryLink id="ba20-e91c-6249-7913" name="Spieloption: Beutefahrzeuge" hidden="false" targetId="483a-3351-5e3f-f396" primary="false"/>
+              </categoryLinks>
+              <selectionEntries>
+                <selectionEntry id="5d4a-e380-f486-aa6c" name="Commonwealth" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9148-c9ac-f89a-3389" type="max"/>
+                  </constraints>
+                  <categoryLinks>
+                    <categoryLink id="4894-3199-2a4c-2898" name="Beutepanzer Commonwealth" hidden="false" targetId="eca7-16bf-4d09-9209" primary="false"/>
+                  </categoryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8469-5530-3c2e-a554" name="USA" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="281f-f597-7fb8-70ca" type="max"/>
+                  </constraints>
+                  <categoryLinks>
+                    <categoryLink id="c2e3-2c4c-bc76-006c" name="Beutepanzer USA" hidden="false" targetId="0ddf-323d-ad46-c98e" primary="false"/>
+                  </categoryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f311-0020-41c8-fb5a" name="Japan" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d147-0246-7769-244b" type="max"/>
+                  </constraints>
+                  <categoryLinks>
+                    <categoryLink id="c70b-28a4-6a50-8d0b" name="Beutepanzer Japan" hidden="false" targetId="caf6-0732-5116-2698" primary="false"/>
+                  </categoryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="96b5-9a02-11d4-0ca2" name="Italien" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="73f9-6637-976a-1deb" type="max"/>
+                  </constraints>
+                  <categoryLinks>
+                    <categoryLink id="8a85-21ca-64d6-b7ab" name="Beutepanzer Italien" hidden="false" targetId="8bb4-ffca-4655-64ea" primary="false"/>
+                  </categoryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9c00-2d87-98c1-fd23" name="Polen" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="600e-c7d5-5b97-6def" type="max"/>
+                  </constraints>
+                  <categoryLinks>
+                    <categoryLink id="c89c-0316-37ab-677e" name="Beutepanzer Polen" hidden="false" targetId="2cf5-942d-5704-1518" primary="false"/>
+                  </categoryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="b9b5-118a-307e-b97c" name="UDSSR" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="df3c-91d3-63ea-ca32" type="max"/>
+                  </constraints>
+                  <categoryLinks>
+                    <categoryLink id="a000-6f5b-a6e5-761d" name="Beutepanzer UDSSR" hidden="false" targetId="b131-4f0a-48c5-e40c" primary="false"/>
+                  </categoryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="e72b-2b51-063e-ab24" name="Zeit (Funktioniert noch nicht)" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6c49-7294-8cef-5aec" type="min"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b43a-7b85-d602-5d5b" name="1939-1941" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9fc7-091d-9c37-b2c1" type="max"/>
+                  </constraints>
+                  <categoryLinks>
+                    <categoryLink id="8d2c-b272-4e54-596d" name="Zeit: Früh" hidden="false" targetId="7a43-9754-cb47-b5ee" primary="false"/>
+                  </categoryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="75ca-3b3a-ae00-1b41" name="1942-1943" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="925f-0880-8700-f07f" type="max"/>
+                  </constraints>
+                  <categoryLinks>
+                    <categoryLink id="a860-d50a-9651-0c8e" name="Zeit: Mitte" hidden="false" targetId="9aa6-d948-aff0-0306" primary="false"/>
+                  </categoryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="6abd-a181-f995-ee38" name="1944-1945" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bd13-b946-cc7e-3ca0" type="max"/>
+                  </constraints>
+                  <categoryLinks>
+                    <categoryLink id="38ef-a6e5-f41d-5aea" name="Zeit: Spät" hidden="false" targetId="74d7-5f6f-303b-c1d8" primary="false"/>
+                  </categoryLinks>
+                  <costs>
+                    <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>

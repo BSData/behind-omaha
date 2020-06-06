@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gameSystem id="f8d5-207e-e1b7-6225" name="Behind Omaha" revision="1" battleScribeVersion="2.03" authorName="EryelShest" authorContact="eryel.shest@gmail.com" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <publications>
-    <publication id="3ea7-b0db-2a41-9265" name="Behind Omaha 2.0 Regelwerk"/>
-    <publication id="eff4-e7ce-ae7a-82a6" name="Profilwertliste Deutschland"/>
-    <publication id="d531-ebe9-e8fe-100f" name="Profilwertliste USA"/>
-    <publication id="10e8-2556-101e-7b7b" name="Profilwertliste UDSSR"/>
-    <publication id="cb8d-b248-37d2-4542" name="Profilwertliste Großbritannien"/>
-    <publication id="28a7-e328-cccd-07f4" name="Profilwertliste Polen"/>
-    <publication id="0321-8f7f-0a93-085e" name="Profilwertliste Japan"/>
+    <publication id="3ea7-b0db-2a41-9265" name="Behind Omaha 2.0 Regelwerk" shortName="BORW 2.0" publisher=""/>
+    <publication id="eff4-e7ce-ae7a-82a6" name="Profilwertliste Deutschland" shortName="GER"/>
+    <publication id="d531-ebe9-e8fe-100f" name="Profilwertliste USA" shortName="USA"/>
+    <publication id="10e8-2556-101e-7b7b" name="Profilwertliste UDSSR" shortName="RUS"/>
+    <publication id="cb8d-b248-37d2-4542" name="Profilwertliste Großbritannien" shortName="UK"/>
+    <publication id="28a7-e328-cccd-07f4" name="Profilwertliste Polen" shortName="POL"/>
+    <publication id="0321-8f7f-0a93-085e" name="Profilwertliste Japan" shortName="JAP"/>
     <publication id="d39b-78e4-2a8a-80ee" name="Homebrew"/>
+    <publication id="ddbb-0496-8bd8-5d37" name="Profilwertliste Italien" shortName="ITA"/>
+    <publication id="5779-490e-3c63-5d39" name="Exotenliste" shortName="Exot"/>
   </publications>
   <costTypes>
     <costType id="198c-6bc9-a197-9c5d" name=" Punkte" defaultCostLimit="-1.0"/>
@@ -285,6 +287,38 @@ Transportfahrzeuge können auch als Sanitätsfahrzeug eingesetzt werden. Sie dü
         </rule>
       </rules>
     </categoryEntry>
+    <categoryEntry id="ec7c-e71f-8c27-53be" name="Spieloptionen" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="7bc4-81bf-382d-6e15" name="Spieloption: Leichte Infantriewaffen" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="a574-1e60-824c-1669" name="Spieloption: Begleitinfantrie für Panzer" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="0300-ad50-5252-8323" name="Spieloption: Sanitätsfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="9ca8-077a-2475-c329" name="Spieloption: Partisanen/Widerstandskämpfer" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="021d-d38e-7bc6-c067" name="Spieloption: Luftlandung" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="483a-3351-5e3f-f396" name="Spieloption: Beutefahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="7a43-9754-cb47-b5ee" name="Zeit: Früh" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="74d7-5f6f-303b-c1d8" name="Zeit: Spät" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="9aa6-d948-aff0-0306" name="Zeit: Mitte" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="46dc-c41d-2c76-c024" name="Begleitinfantrie" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="eca7-16bf-4d09-9209" name="Beutepanzer Commonwealth" publicationId="cb8d-b248-37d2-4542" hidden="false"/>
+    <categoryEntry id="ce12-8381-e445-ba8b" name="Beutepanzer Deutschland" publicationId="eff4-e7ce-ae7a-82a6" hidden="false"/>
+    <categoryEntry id="2cf5-942d-5704-1518" name="Beutepanzer Polen" publicationId="28a7-e328-cccd-07f4" hidden="false"/>
+    <categoryEntry id="b131-4f0a-48c5-e40c" name="Beutepanzer UDSSR" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
+    <categoryEntry id="0ddf-323d-ad46-c98e" name="Beutepanzer USA" publicationId="d531-ebe9-e8fe-100f" hidden="false"/>
+    <categoryEntry id="8bb4-ffca-4655-64ea" name="Beutepanzer Italien" publicationId="ddbb-0496-8bd8-5d37" hidden="false"/>
+    <categoryEntry id="caf6-0732-5116-2698" name="Beutepanzer Japan" publicationId="0321-8f7f-0a93-085e" hidden="false"/>
+    <categoryEntry id="599e-8bdf-eba4-c2ff" name="Exot" publicationId="5779-490e-3c63-5d39" hidden="false"/>
+    <categoryEntry id="f720-a832-fc0b-bc46" name="Spieloption: Exotenliste" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="2ff2-62ce-ca97-a1f1" name="Nation: Deutschland" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="af73-2b7e-29c1-a501" name="Nation: Commonwealth" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="0633-5d0f-49d9-d5ee" name="Nation: USA" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="0ef5-6fe4-5fc1-5114" name="Nation: UDSSR" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="e9c1-a2f8-33b1-ff43" name="Nation: Italien" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="a505-af57-ed4e-689d" name="Nation: Japan" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="30d3-b8f2-c82c-6f79" name="Nation: Polen" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="f449-97e9-0934-2031" name="Maschinengewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="1f2e-a77c-84ec-b387" name="Flammenwerfer" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="5354-0ed8-d47b-400f" name="Panzerabwehrhandwaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="e93c-44ea-675f-24dc" name="leichter Mörser/Gewehrgranate" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="289f-835d-a59f-2cc2" name="Panzerbüchse" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
   </categoryEntries>
   <forceEntries>
     <forceEntry id="5891-a4d8-b060-b0a9" name="Standard" publicationId="3ea7-b0db-2a41-9265" hidden="false">
@@ -308,6 +342,7 @@ Transportfahrzeuge können auch als Sanitätsfahrzeug eingesetzt werden. Sie dü
         <categoryLink id="9c68-74de-a047-71d7" name="Artillerieselbstfahrlafetten" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="187c-f416-c2ce-29f1" primary="false"/>
         <categoryLink id="3c68-e67c-e601-a418" name="Schwere Maschinengewehre" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="c194-b510-605c-b0ee" primary="false"/>
         <categoryLink id="aa30-3fa9-ec9f-9389" name="Sonstiges" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="3659-77bc-db8e-8812" primary="false"/>
+        <categoryLink id="a350-2e8d-73ea-0590" name="Spieloptionen" hidden="false" targetId="ec7c-e71f-8c27-53be" primary="false"/>
       </categoryLinks>
     </forceEntry>
     <forceEntry id="de34-5117-b03f-1d27" name="Girls und Panzer" publicationId="d39b-78e4-2a8a-80ee" hidden="false">
@@ -336,6 +371,7 @@ Transportfahrzeuge können auch als Sanitätsfahrzeug eingesetzt werden. Sie dü
         <categoryLink id="17fc-337a-9af9-77d4" name="Artillerieselbstfahrlafetten" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="187c-f416-c2ce-29f1" primary="false"/>
         <categoryLink id="62b5-6326-e35a-0f77" name="Schwere Maschinengewehre" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="c194-b510-605c-b0ee" primary="false"/>
         <categoryLink id="c9c1-7ed1-5030-237d" name="Sonstiges" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="3659-77bc-db8e-8812" primary="false"/>
+        <categoryLink id="4057-c7c3-5e10-e9cc" name="Spieloptionen" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="ec7c-e71f-8c27-53be" primary="false"/>
       </categoryLinks>
     </forceEntry>
   </forceEntries>
@@ -544,78 +580,63 @@ mit Sichtlinie innerhalb des angegebenen Tarnradius aufhalten
       </costs>
     </selectionEntry>
     <selectionEntry id="21c6-12cd-e1de-33b1" name="Maschinengewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-      <constraints>
-        <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3687-ae89-3336-85d0" type="max"/>
-      </constraints>
       <infoLinks>
         <infoLink id="0ca4-0d76-d55f-a200" name="Maschinengewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="ab1c-b79a-f521-1195" type="profile"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="ed98-2753-ddc2-4288" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
         <categoryLink id="6484-bc7c-28a4-f6f4" name="Schwere Infantriewaffe" hidden="false" targetId="78f6-6663-0ab9-616f" primary="false"/>
+        <categoryLink id="ab7a-7305-a2fe-8a01" name="Maschinengewehr" hidden="false" targetId="f449-97e9-0934-2031" primary="false"/>
       </categoryLinks>
       <costs>
-        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="10.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="7935-45a9-d7cf-159e" name="Flammenwerfer" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-      <constraints>
-        <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3c04-d6f1-f3b4-fbe5" type="max"/>
-      </constraints>
       <infoLinks>
         <infoLink id="1f21-4bc1-d7bc-5326" name="Flammenwerfer" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="f2e7-a674-28d1-73ad" type="profile"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="71d2-a7f0-c4d5-aea2" name="Schwere Infantriewaffe" hidden="false" targetId="78f6-6663-0ab9-616f" primary="false"/>
-        <categoryLink id="ec68-2dae-0da3-8854" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
+        <categoryLink id="aa94-1831-b6df-7cf8" name="Flammenwerfer" hidden="false" targetId="1f2e-a77c-84ec-b387" primary="false"/>
       </categoryLinks>
       <costs>
-        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="40.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="5d62-fa66-6453-80aa" name="Panzerabwerhandwaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-      <constraints>
-        <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2d05-9515-e7a8-783b" type="max"/>
-      </constraints>
       <infoLinks>
-        <infoLink id="a12b-5d5a-ff96-1cbd" name="Panzerhandwaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="5be5-3e5c-dfcb-ded8" type="profile"/>
+        <infoLink id="a12b-5d5a-ff96-1cbd" name="Panzerabwehrhandwaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="5be5-3e5c-dfcb-ded8" type="profile"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="30c5-9927-c3ff-eaba" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
         <categoryLink id="76af-48f7-f8ae-8225" name="Schwere Infantriewaffe" hidden="false" targetId="78f6-6663-0ab9-616f" primary="false"/>
+        <categoryLink id="922d-ee9b-7a8e-203e" name="Panzerabwehrhandwaffe" hidden="false" targetId="5354-0ed8-d47b-400f" primary="false"/>
       </categoryLinks>
       <costs>
-        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="20.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="2b98-5d01-49c3-663a" name="Panzerbüchse" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-      <constraints>
-        <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="57cd-7bb4-bb58-1f5e" type="max"/>
-      </constraints>
       <infoLinks>
         <infoLink id="cb43-2a4a-0fd5-b9c8" name="Panzerbüchse" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="57a5-8267-52a3-4523" type="profile"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="4624-4cb4-ec76-516a" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
         <categoryLink id="f4f8-d0dd-de51-8691" name="Schwere Infantriewaffe" hidden="false" targetId="78f6-6663-0ab9-616f" primary="false"/>
+        <categoryLink id="f9fa-8b07-23a3-892a" name="Panzerbüchse" hidden="false" targetId="289f-835d-a59f-2cc2" primary="false"/>
       </categoryLinks>
       <costs>
-        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="10.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="f222-35e9-a60f-dc68" name="Leichter Mörser/Gewehrgranate" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
-      <constraints>
-        <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b53a-c095-943f-2358" type="max"/>
-      </constraints>
       <infoLinks>
         <infoLink id="2c99-517e-b074-e77d" name="leichter Mörser, Gewehrgranate" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="638e-017b-8886-87aa" type="profile"/>
       </infoLinks>
       <categoryLinks>
-        <categoryLink id="8b85-b86d-6357-618d" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
         <categoryLink id="13d6-023a-9575-c5c1" name="Schwere Infantriewaffe" hidden="false" targetId="78f6-6663-0ab9-616f" primary="false"/>
+        <categoryLink id="0ff2-cf31-ab56-8572" name="leichter Mörser/Gewehrgranate" hidden="false" targetId="e93c-44ea-675f-24dc" primary="false"/>
       </categoryLinks>
       <costs>
-        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="20.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="cbfb-53ec-8652-1d86" name="Bug-MG" publicationId="eff4-e7ce-ae7a-82a6" hidden="false" collective="false" import="true" type="upgrade">
@@ -813,6 +834,129 @@ Der Maximalwert von 16 darf nicht überschritten werden.</description>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="15.0"/>
       </costs>
     </selectionEntry>
+    <selectionEntry id="a5be-deb7-9390-42bd" name="Begleitinfantrie" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4dc4-6b6e-ddde-aba1" type="max"/>
+      </constraints>
+      <selectionEntries>
+        <selectionEntry id="34a2-0c61-c466-6000" name="Schütze" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="5.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="265c-e36d-38be-b52f" type="max"/>
+            <constraint field="selections" scope="parent" value="5.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6afe-a585-187e-bcd7" type="min"/>
+          </constraints>
+          <categoryLinks>
+            <categoryLink id="2f91-f659-d846-548e" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
+          </categoryLinks>
+          <selectionEntryGroups>
+            <selectionEntryGroup id="3080-a9a1-af73-f8cf" name="Waffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3e14-f9ae-7755-8ddc" type="max"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6a99-677a-0234-e552" type="min"/>
+              </constraints>
+              <categoryLinks>
+                <categoryLink id="7096-8382-9783-68d7" name="Infantrie" hidden="false" targetId="220e-c12c-7327-57e7" primary="false"/>
+              </categoryLinks>
+              <selectionEntryGroups>
+                <selectionEntryGroup id="5e3a-c37b-152f-c700" name="Schwere Infantriewaffen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
+                  <constraints>
+                    <constraint field="selections" scope="a5be-deb7-9390-42bd" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="4e31-2ea7-68a6-a01d" type="max"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="edb6-ac7e-3e9c-2aab" type="max"/>
+                  </constraints>
+                  <entryLinks>
+                    <entryLink id="87e4-2eaf-edeb-5bb1" name="Maschinengewehr" hidden="false" collective="false" import="true" targetId="21c6-12cd-e1de-33b1" type="selectionEntry">
+                      <constraints>
+                        <constraint field="selections" scope="a5be-deb7-9390-42bd" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="0fd2-8bb5-6163-e3ac" type="max"/>
+                      </constraints>
+                    </entryLink>
+                    <entryLink id="396e-6113-a50f-ee3e" name="Flammenwerfer" hidden="false" collective="false" import="true" targetId="7935-45a9-d7cf-159e" type="selectionEntry">
+                      <constraints>
+                        <constraint field="selections" scope="a5be-deb7-9390-42bd" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="ad5d-a7a3-6736-068a" type="max"/>
+                      </constraints>
+                    </entryLink>
+                    <entryLink id="19e5-281c-426a-5d94" name="Leichter Mörser/Gewehrgranate" hidden="false" collective="false" import="true" targetId="f222-35e9-a60f-dc68" type="selectionEntry">
+                      <constraints>
+                        <constraint field="selections" scope="a5be-deb7-9390-42bd" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="aadd-c535-b6bd-5832" type="max"/>
+                      </constraints>
+                    </entryLink>
+                    <entryLink id="e8d0-a33e-eaeb-3857" name="Panzerbüchse" hidden="false" collective="false" import="true" targetId="2b98-5d01-49c3-663a" type="selectionEntry">
+                      <constraints>
+                        <constraint field="selections" scope="a5be-deb7-9390-42bd" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="4426-cd8c-5cfb-b739" type="max"/>
+                      </constraints>
+                    </entryLink>
+                    <entryLink id="88a2-c807-b31d-dbe2" name="Panzerabwerhandwaffe" hidden="false" collective="false" import="true" targetId="5d62-fa66-6453-80aa" type="selectionEntry">
+                      <constraints>
+                        <constraint field="selections" scope="a5be-deb7-9390-42bd" value="2.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="07f0-e1fd-a349-79dd" type="max"/>
+                      </constraints>
+                    </entryLink>
+                  </entryLinks>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="a3d6-75d5-10e5-d6c3" name="Leichte Infantriewaffen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b1b2-1349-d597-98c2" type="max"/>
+                  </constraints>
+                  <selectionEntries>
+                    <selectionEntry id="6e19-ddf4-5b95-856a" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                      <infoLinks>
+                        <infoLink id="d861-e428-0ebd-c3a7" name="Pistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="dc11-ec81-7b85-089b" type="profile"/>
+                      </infoLinks>
+                      <costs>
+                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="4.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="0f2d-80d9-6c6c-5fe6" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                      <infoLinks>
+                        <infoLink id="e8e2-daa3-fb15-2a8d" name="Maschinenpistole" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="6be6-dfd6-df87-d30b" type="profile"/>
+                      </infoLinks>
+                      <costs>
+                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="898b-909a-efbf-b0be" name="Leichtes MG" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                      <infoLinks>
+                        <infoLink id="2b3b-a6ce-a3b3-db06" name="Leichtes Maschinengewehr" hidden="false" targetId="c720-3566-9ecb-63b8" type="profile"/>
+                      </infoLinks>
+                      <costs>
+                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="9.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="7adf-bfd1-fd48-9655" name="Halbautomatikgewehr" hidden="false" collective="false" import="true" type="unit">
+                      <infoLinks>
+                        <infoLink id="a1da-d0e5-7ee1-0ea5" name="Halbautomatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="0b87-82a2-c498-99af" type="profile"/>
+                      </infoLinks>
+                      <costs>
+                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="6.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="e8d9-6393-1c6a-415b" name="Automatikgewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                      <infoLinks>
+                        <infoLink id="6a84-73e3-34c3-acd5" name="Automatikgewehr" hidden="false" targetId="d9cd-f539-89cb-c339" type="profile"/>
+                      </infoLinks>
+                      <costs>
+                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="8.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="6911-562b-ef59-5c3f" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+                      <infoLinks>
+                        <infoLink id="e8bf-450d-c13d-8f80" name="Gewehr" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="9843-6937-9e6e-b7cd" type="profile"/>
+                      </infoLinks>
+                      <costs>
+                        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="5.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+              </selectionEntryGroups>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+      </costs>
+    </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
     <selectionEntryGroup id="0c8b-1563-3792-89e1" name="Zusatzausrüstung" publicationId="eff4-e7ce-ae7a-82a6" hidden="false" collective="false" import="true">
@@ -829,6 +973,39 @@ Der Maximalwert von 16 darf nicht überschritten werden.</description>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="f12e-658a-5687-a9ac" name="Begleitinfantrie" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" defaultSelectionEntryId="37aa-da55-3e6a-a16b">
+      <rules>
+        <rule id="69c1-0c09-de86-cf4d" name="Begleitinfantrie" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Spieloption: Begleitinfanterie für Panzer
+Begleitinfanterie besteht aus einem Infanterietrupp von 5 Mann ohne Offizier und kostet die jeweiligen Punkte der gewählten Infanteristen.
+- der Panzerkommandant übernimmt statt eines Infanterieoffiziers die Befehlsgewalt innerhalb eines Befehlsradius von 10 cm um den betreffenden Panzer, jeweils gemessen von den Fahrzeugkanten. Er hat ansonsten keine weiteren Fähigkeiten, die ein normaler Offizier haben würde
+- er gilt nicht als zusätzliche Figur, kann weder als Ziel ausgewählt werden, noch sich bewegen, noch ist er Bestandteil der Begleitinfanterie
+- für den Trupp dürfen keine Spezialisten und keine IUW ausgewählt werden
+- es dürfen max. 2 schwere Waffen mitgeführt werden
+- wenn optional mit erweiterten leichten Infanteriewaffen (siehe Abschnitt 1.2.9) gespielt
+wird, dürfen die Infanteristen damit ausgerüstet werden
+- die Begleitinfanterie kann den Panzer als Transportfahrzeug nutzen. Der Trupp
+unterliegt dann den Regeln für Tankrider (siehe Abschnitte 2.5.2)
+- ist ein Panzer mit Begleitinfanterie ausgestattet, kann er keine zusätzlichen Tankrider
+transportieren
+- der Trupp darf sich nach den Regeln für Infanterie einem Infanterieoffizier anschließen,
+wenn der neu geformte Trupp die Gesamtstärke von 10 Mann (incl. Offizier) nicht
+überschreitet und die Aufstellungsregeln bezüglich schwerer Waffen und IUW
+eingehalten werden
+- umgekehrt darf der Panzerkommandant jedoch keine anderen Infanteristen als die ihn
+begleitenden aufnehmen und
+- ist die Begleitinfanterie einmal ausgeschaltet kann sie nicht durch Infanteristen eines
+anderen Trupps ersetzt werden
+Der Panzer muss seine Bewegung der abgesessenen Begleitinfanterie anpassen. In der
+Schussphase gelten Panzer und Begleitinfanterie als eine Einheit. Waffen des Panzers oder
+der Begleitinfanterie können nicht aufgespart werden, um sie später abzufeuern. Ist der
+Panzer zerstört, müssen die Infanteristen, solange sie sich keinem Offizier anschließen
+konnten, einen Moraltest ablegen (siehe Abschnitt 2.4.2).</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="7643-80d2-4376-a93b" name="Begleitinfantrie" hidden="false" targetId="46dc-c41d-2c76-c024" primary="false"/>
+      </categoryLinks>
       <selectionEntries>
         <selectionEntry id="37aa-da55-3e6a-a16b" name="Schütze" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="model">
           <constraints>
