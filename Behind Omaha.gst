@@ -13,7 +13,7 @@
     <publication id="5779-490e-3c63-5d39" name="Exotenliste" shortName="Exot"/>
   </publications>
   <costTypes>
-    <costType id="198c-6bc9-a197-9c5d" name=" Punkte" defaultCostLimit="-1.0"/>
+    <costType id="198c-6bc9-a197-9c5d" name=" Punkte" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
   <profileTypes>
     <profileType id="9099-02e5-8f36-b9e4" name="Fahrzeug">
@@ -56,32 +56,145 @@
         </profile>
       </profiles>
     </categoryEntry>
-    <categoryEntry id="a514-56d4-06ba-405f" name="Fahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
-    <categoryEntry id="023c-4cfa-4498-e78b" name="Flag Tank" publicationId="d39b-78e4-2a8a-80ee" hidden="false"/>
-    <categoryEntry id="78f6-6663-0ab9-616f" name="Schwere Infantriewaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
-    <categoryEntry id="b972-6b32-5862-9d00" name="Kleinfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
-    <categoryEntry id="46d8-3d26-7644-f260" name="Transportfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
-    <categoryEntry id="3af4-b15e-0860-289d" name="Reparaturfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
-    <categoryEntry id="1683-c5e5-06a5-99de" name="Aufklärungsfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+    <categoryEntry id="a514-56d4-06ba-405f" name="Fahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false">
       <rules>
-        <rule id="6ebb-568d-9008-35a4" name="Aufklärungsfahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+        <rule id="e6e9-c987-3a16-cc54" name="Fahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false">
           <description>
-Aufklärungsfahrzeuge sind Fahrzeuge, die zur Aufklärung ausgestattet sind und Ressourcenmarker (RM) einnehmen  können (siehe  Abschnitt 2.3 (Behind-Omaha-Regelwerk)). Nimmt man im Spiel nach Spielvariante 1 mit Aufklärungsfahrzeugen einen RM ein, so generiert dieser dauerhaft doppelte Ressourcenpunkte, wenn das  Aufklärungsfahrzeug  ein Spielzug länger als zur Generierung des ersten RP erforderlich an dem RM verbleibt. Danach können Aufklärungsfahrzeuge den RM verlassen.</description>
+-Fahrzeuge dürfen pro Schussphase 3 Waffen abfeuern.
+-jedes Fahrzeug hat 3 Strukturpunkte.
+-jedes Fahrzeug hat immer eine ausreichende Besatzungum das Fahrzeug zu führen. Die Besatzung wird bei der Berechnung der Truppstärke nicht mitgezählt.
+-Fahrzeuge können nicht übernommen werden.</description>
         </rule>
       </rules>
     </categoryEntry>
-    <categoryEntry id="bb1c-2b1e-a081-3c10" name="Artilleriebeobachtungsfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="023c-4cfa-4498-e78b" name="Flag Tank" publicationId="d39b-78e4-2a8a-80ee" hidden="false"/>
+    <categoryEntry id="78f6-6663-0ab9-616f" name="Schwere Infantriewaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="fd94-44b9-16a5-997b" name="Schwere Infantriewaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Schwere Infanteriewaffen sollen die eigenen Trupps mit besserer Durchschlags- oder feuerkraft ausstatten. Für schwere Infanteriewaffen benötigt man immer zwei Schützen:Einen Schützen, der die Waffe abfeuert sowie einen, der die Minition mit- und zuführt, die Waffe nachlädt und vor allem beim Stellungswechsel unterstützt.
+Das heißt:
+-für jede schwere Waffe im Trupp muss ein Schütze mit Gewehr (bzw. leichter Infantriewaffe) dazu gekauft werden. Es darf kein Spezialist sein.
+-nach Aufstellung agiert der Ladeschütze bereits mit dem ersten Spielzug unabhängig von der schweren Waffe für die er hinzugekauft wurde. Der Verlust des Ladeschützen hat keinen Einfluss auf die weitere Verwendung der schweren Waffe (der Zukauf ist nur aufstellungsgebunden).
+-in einem Trupp von 10 Mann dürfen bis zu 4 schwere Waffen mitfeführt werden, davondürfen nur jwewils 2 des gleichen Typs sein.
+-in einem Trupp bis zu 9 Mann dürfen bis zu 2 schwere Waffen mitgeführt werden.
+-Schützen mit schweren Infantriewaffen dürfen keine Panzerfäuste abfeuern.
+-jeder Schütze mit einer schweren Waffe kann sich im Laufe des Gefechts dazu entschließen, die schwere Infantriewaffe abzulegen und als normaler Schütze mit Gewehr (G) weiter zu kämpfen. Ist die schwere Waffe einmal abgelegt, kann diese nicht wieder aufgenommen werden.
+-jede schwere Waffe hat einen Schusswinkel von 45°, da heißt, dass sich ein Schütze mit schwerer Waffe in der Bewegungsphase auf sein Ziel ausrichten muss. Er hat keinen 360°-Schusswinkel wie ein Infanterist mit Gewehr bzw. leichter Infantriewaffe. Besitzt da Modell keine geeignete Pose zum Ausrichten der Waffe, wird es nach der Blickrichtung des Gesichts auf das Ziel ausgerichtet.
+
+Hinweis: Schwere Waffen sollen eindeutig identifizierbar sein. Man könnte z.B. schwere Waffen auf eine größere Base setzen. Im Zweifelsfall ist eine individuelle Kennzeuchnung schwerer Waffen mit dem Gegner vor Spielbeginn abzuklären.</description>
+        </rule>
+      </rules>
+    </categoryEntry>
+    <categoryEntry id="b972-6b32-5862-9d00" name="Kleinfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="22fd-0259-cef7-63a2" name="Kleinfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Kleinfahrzeuge sind alle Motorräder, kleine Gelände- und Stabswagen (Jeep, Kübel, etc.):
+-sie können Ressourcenmarker einnehmen (Abschnitt 2.3).
+-Sie können auch gleichzeitig Transportfahrzeuge sein (siehe Profilwert).</description>
+        </rule>
+      </rules>
+    </categoryEntry>
+    <categoryEntry id="46d8-3d26-7644-f260" name="Transportfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="ffbd-8b87-1fbb-84a4" name="Transportfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Transportfahrzeuge sind alle Fahrzeuge, die Infantriemodelle transportieren können (siehe Fahrzeuginfo). Oft können auch Geshütze angehängt werden, wobei die Größe der Zuglast und die Größe des Geschützes zu beachten ist (Abschnitt 2.5.3).</description>
+        </rule>
+      </rules>
+    </categoryEntry>
+    <categoryEntry id="3af4-b15e-0860-289d" name="Reparaturfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="a183-ee77-cba8-04a6" name="Reparaturfahrzeuge" hidden="false">
+          <description>
+Reperaturfahrzeuge können Schäden an Fahrzeugen und IUW beseitigen. Hierzu können sie die Spieloption &quot;Reperatur von Fahrzeugen und IuW&quot; (Abschnitt 2.5.7) nutzen.
+Zusätzlich dürfen sie Fahrzeuge abschleppen (Abschnitt 2.5.5).</description>
+        </rule>
+      </rules>
+    </categoryEntry>
+    <categoryEntry id="1683-c5e5-06a5-99de" name="Aufklärungsfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="6ebb-568d-9008-35a4" name="Aufklärungsfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Aufklärungsfahrzeuge sind Fahrzeuge, die zur Aufklärung ausgestattet sind und Ressourcenmarker (RM) einnehmen  können (siehe  Abschnitt 2.3). Nimmt man im Spiel nach Spielvariante 1 mit Aufklärungsfahrzeugen einen RM ein, so generiert dieser dauerhaft doppelte Ressourcenpunkte, wenn:
+-das  Aufklärungsfahrzeug  ein Spielzug länger als zur Generierung des ersten RP erforderlich an dem RM verbleibt.
+-danach können Aufklärungsfahrzeuge den RM verlassen.
+
+Gewinnt man im Spiel die Ressourcenpunkte (RM) nach Methode 3, so verhindern Aufklärungsfahrzeuge das Generieren von 2RP pro gegnerischem beweglichem Ressourcenmarker, wenn:
+-sie sich innerhalb von 30cm um das gegnerische BRM befinden und-zum BRM Sichtkontakt haben.
+
+Das Generieren von 2RP entfällt, wenn der Gegenspieler den RT ohne Zuhilfenahme von Aufklärer oder Späher einnimmt.
+
+Aufklärungsfahrzeuge sind mit Funk ausgestattet und können daher Steilfeuer und Luftunterstützung anfordern. Das Anfordern von Steilfeuer oder Luftunterstützung ist gleichbedeutend mit dem Abfeuern einer Nebenwaffe. D.h. dass in dem betreffenden Spielzug grundsätzlich zu einer Hauptwaffe nur noch eine Nebenwaffe abgefeuert werden kann.
+
+</description>
+        </rule>
+      </rules>
+    </categoryEntry>
+    <categoryEntry id="bb1c-2b1e-a081-3c10" name="Artilleriebeobachtungsfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="a688-09a7-78f8-1182" name="Artilleriebeobachtungsfahrzeuge" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Artilleriebeobachtungsfahrzeuge sind Fahrzeuge, die durch ihre Ausstattung und Besatzung besonders geeignet sind, Zielkoordinaten zu ermitteln (bei direkter und indirekter Sichtlinie) und Steilfeuer sowie Luftunterstützung anzufordern.
+
+-ABF sind mit Funk ausgerüstet.
+-das Anfordern von Steilfeuer oder Luftunterstützung ist gleichbedeutend mit dem Abfeuern einer Waffe.
+-das ABF kann pro eigener Schussphase das Steilfeuer einer einzigen eigenen Einheit auf ein Ziel koordinieren.
+-ABF bieten Vorteile beim Schießen mit Steilfeuerwaffen. Wenn das ABF das Ziel einsehen kann, dann
+	-reduzieren sich einmal pro Schuss die zu bezahlenden RP um 2 (nur bei Steilfeuer) und
+	-zusätzlich halbiert sich einmalig die Abweichung beim Artilleriebeschuss.
+
+Hinweis:
+Das ABF sollte sich von einem normalen Fahrzeug abheben, entweder durch Betonen der Funkausstatung oder durch optische Hilfsmittel.</description>
+        </rule>
+      </rules>
+    </categoryEntry>
     <categoryEntry id="a1c4-957f-afeb-b168" name="Leichte Panzer" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
     <categoryEntry id="17a6-9416-03d4-c703" name="Mittlere Panzer" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
     <categoryEntry id="6c55-ee07-b88b-3051" name="Schwere Panzer" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
-    <categoryEntry id="5ed6-ae4d-83c6-a587" name="Jagdpanzer" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
-    <categoryEntry id="aa31-406d-e7c1-b8ac" name="Flugabwehrselbstfahrlafetten" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
-    <categoryEntry id="1231-1f58-9144-67f9" name="Flammpanzer" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="5ed6-ae4d-83c6-a587" name="Jagdpanzer" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="93f1-1faa-60a0-6189" name="Jagdpanzer" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Jagdpanzer sind selbstfahrende Panzerabwehrgeschütze:
+-sie sind meist nur leicht gepanzert
+-und feuern nach Regeln für Fahrzeuge und IUW
+-dürfen einmalig bei einem Schadenswurf einen einzelnen Würfel nach Wahl des kontrollierenden Spielers wiederholen. Das zweite Würfelergebnis zählt, selbst wenn es schlechter ausfällt als vorher.</description>
+        </rule>
+      </rules>
+    </categoryEntry>
+    <categoryEntry id="aa31-406d-e7c1-b8ac" name="Flugabwehrselbstfahrlafetten" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="8cd2-3ca9-f4ae-67bb" name="Flugabwehrselbstfahrlafetten" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Meist nur leicht gepanzert können selbstfahrende Flugabwehrgeschütze direkt schießen und feuern nach den Regeln für Fahrzeuge und IUW. Sie können Flugzeuge bekämpfen und feuern nach den Regeln &quot;Abwehr von Luftangriffen (Abschnitt 3.2.3).</description>
+        </rule>
+      </rules>
+    </categoryEntry>
+    <categoryEntry id="1231-1f58-9144-67f9" name="Flammpanzer" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="4ef8-e632-99d2-58a2" name="Flammpanzer" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Flammpanzer und selbstfahrende Flammenwerfer sind Fahrzeuge, die mit einem Flammenwerfer ausgestattet sind und in der Schussphase die Flammschablone entsprechend der Profilliste verwenden.</description>
+        </rule>
+      </rules>
+    </categoryEntry>
     <categoryEntry id="db1e-faec-9fea-0fe9" name="Panzerabwehrkanonen" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
     <categoryEntry id="ee0b-1588-6abb-3af5" name="Flugabwehrgeschütze" hidden="false"/>
     <categoryEntry id="b50f-3b51-2d61-73e8" name="Artilleriegeschütze" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
     <categoryEntry id="c194-b510-605c-b0ee" name="Schwere Maschinengewehre" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
-    <categoryEntry id="187c-f416-c2ce-29f1" name="Artillerieselbstfahrlafetten" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="187c-f416-c2ce-29f1" name="Artillerieselbstfahrlafetten" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="e085-c9cb-6ba9-6738" name="Artillerieselbstfahrlafetten" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>Artillerieselbstfahrlafetten sind Fahrzeuge, die als Waffenträger für ein Artilleriegechütz oder Mörser dienen:
+-sie sind mit Funk ausgestattet und können Zielkoordinaten empfangen, aber nicht weitergeben.
+-können auch direkt Zielkoordinaten von einem Offizier oder Artilleriebeobachtungsoffizier erhalten, der in max 6cm Entfernung zum Geschütz steht und Sichtlinie zum Ziel hat oder die Zielkoordinaten von einem Mitglied seines Infantrietrupps übermittelt bekommen hat.
+-Selbstfahrende Artilleriegeschütze können indirekt schießen.
+-Sie können direkt schießen, wenn im Profil eine Reichweite unter DS=Direktschuss angegeben ist.</description>
+        </rule>
+      </rules>
+    </categoryEntry>
     <categoryEntry id="3659-77bc-db8e-8812" name="Sonstiges" publicationId="eff4-e7ce-ae7a-82a6" hidden="false"/>
     <categoryEntry id="77f9-bba4-38a3-3f4b" name="Artilleriebeobachtungstrupp" publicationId="3ea7-b0db-2a41-9265" hidden="false">
       <rules>
@@ -192,12 +305,11 @@ Hilfenahme von Aufklärer oder Späher einnimmt.</description>
     <categoryEntry id="f66a-dbdc-1728-4cdb" name="Pionier" publicationId="3ea7-b0db-2a41-9265" hidden="false">
       <rules>
         <rule id="cb18-f64d-b73e-0e36" name="Pionier" publicationId="3ea7-b0db-2a41-9265" hidden="false">
-          <description>
-Wird nach der Spieloption „leichte Infanteriewaffen für Infanteristen und
-Spezialisten“ gespielt (Abschnitt 1.2.9), steht dem Pionier die gleiche
-Waffenauswahl wie einem Schützen zur Verfügung.
+          <description>Ein Pionier ist ein besonders im Bauen von Sperren wie z.B. Drahthindernissen, Minen und Geländeverstärkungen ausgebildet. Mit seinen Fähigkeiten sorgt er dafür, dass Bewegungen des Gegners gehemmt und die Bewegung der eigenen Truppen gefördert werden. Dazu kann der Pionier gegen Einsatz con Ressourcenpunkten (RP) die Spieloption &quot;Geländeverstärkungen&quot; (Abchnitt 2.2.2) ausüben.
 
-Der Pionier sollte äußerlich z.B. durch Ausrüstungsgegenstände erkennbar sein.</description>
+-der Pionier ist ein Spezialist und kostet 10 Punkte.
+-wird nach der Spieloption „leichte Infanteriewaffen für Infanteristen und Spezialisten“ gespielt (Abschnitt 1.2.9), steht dem Pionier die gleiche Waffenauswahl wie einem Schützen zur Verfügung.
+-der Pionier sollte äußerlich z.B. durch Ausrüstungsgegenstände erkennbar sein.</description>
         </rule>
       </rules>
     </categoryEntry>
@@ -205,27 +317,18 @@ Der Pionier sollte äußerlich z.B. durch Ausrüstungsgegenstände erkennbar sei
       <rules>
         <rule id="3e10-e980-688b-fc19" name="Scharfschütze" publicationId="3ea7-b0db-2a41-9265" hidden="false">
           <description>
-Es darf maximal ein Scharfschütze pro Armee
-aufgestellt werden.
+Aufgrund seiner Fähigkeit, sich zu tartnen und auf große Entfernung gegnerische Figuren auszuschalten, gilt der Scharfschüze als Spezialist. Der Scharfschütze ist immer nur mit einem Scharfschützengewehr ausgerüstet und darf keine weitere Waffe erhalten.
 
-Der Scharfschütze wird allein aufgestellt und nicht als Teil eines Infanterietrupps.
-
-Der Scharfschütze zählt als einzelne Figur und agiert unabhängig von einem Offizier
+-es darf maximal ein Scharfschütze pro Armee aufgestellt werden.
+-der Scharfschütze wird allein aufgestellt und nicht als Teil eines Infanterietrupps.
+-der Scharfschütze zählt als einzelne Figur und agiert unabhängig von einem Offizier
 und dessen Befehlsradius.
-
-Der Scharfschütze kann aufgrund seiner Ausbildung das Gelände optimal ausnutzen
-und erhält ggf. den Tarnbonus (siehe Abschnitt 1.2.7 „Tarnbonus“).
-
-Der Scharfschütze sollte als solcher erkennbar sein (Zielfernrohr/Tarnung/o.ä.).
-
-Der Scharfschütze benötigt eine direkte Sichtlinie, darf sich sein Ziel aber frei
-auswählen und kann dabei die Regel ignorieren, immer das nächste Ziel bekämpfen
+-der Scharfschütze kann aufgrund seiner Ausbildung das Gelände optimal ausnutzen und erhält ggf. den Tarnbonus (siehe Abschnitt 1.2.7 „Tarnbonus“).
+-der Scharfschütze sollte als solcher erkennbar sein (Zielfernrohr/Tarnung/o.ä.).
+-er Scharfschütze benötigt eine direkte Sichtlinie, darf sich sein Ziel aber frei auswählen und kann dabei die Regel ignorieren, immer das nächste Ziel bekämpfen
 zu müssen.
-
-Der Scharfschütze darf in Transportfahrzeugen oder als Tankrider mitfahren. In
-diesen Fällen kann er seinen Tarnbonus nicht in Anspruch nehmen.
-
-Der Scharfschütze kann nur Infanteristen bekämpfen und darf +1 auf seinen
+-der Scharfschütze darf in Transportfahrzeugen oder als Tankrider mitfahren. In diesen Fällen kann er seinen Tarnbonus nicht in Anspruch nehmen.
+-der Scharfschütze kann nur Infanteristen bekämpfen und darf +1 auf seinen
 Schadenswurf aufaddieren.</description>
         </rule>
       </rules>
@@ -272,7 +375,9 @@ entschließen die IUW zu verlassen und als Schütze mit Gewehr (G) zu kämpfen
 die Waffe darf ausgerichtet werden
 --- ist nur noch 1 Bediener vorhanden kann die IUW noch schießen, eine Bewegung oder das Ausrichten sind nicht mehr möglich
 --- wie eine IUW zerstört werden kann ist in der Schussphase beschrieben
---- jede IUW hat einen Schusswinkel von 45° und muss in der Bewegungsphase auf ein Ziel ausgerichtet werden.</description>
+--- jede IUW hat einen Schusswinkel von 45° und muss in der Bewegungsphase auf ein Ziel ausgerichtet werden.
+
+Hinweis: Die Besienmannschaft kann auch durch bewaffnete Figuren darfgestellt werden. Die IuW sollte alleinstehend sein, damit die Bedienmannschaft bei Verlusten entfernt oder ergänzt werden kann.</description>
         </rule>
       </rules>
     </categoryEntry>
@@ -298,13 +403,24 @@ Transportfahrzeuge können auch als Sanitätsfahrzeug eingesetzt werden. Sie dü
     <categoryEntry id="74d7-5f6f-303b-c1d8" name="Zeit: Spät" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
     <categoryEntry id="9aa6-d948-aff0-0306" name="Zeit: Mitte" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
     <categoryEntry id="46dc-c41d-2c76-c024" name="Begleitinfantrie" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
-    <categoryEntry id="eca7-16bf-4d09-9209" name="Beutepanzer Commonwealth" publicationId="cb8d-b248-37d2-4542" hidden="false"/>
-    <categoryEntry id="ce12-8381-e445-ba8b" name="Beutepanzer Deutschland" publicationId="eff4-e7ce-ae7a-82a6" hidden="false"/>
-    <categoryEntry id="2cf5-942d-5704-1518" name="Beutepanzer Polen" publicationId="28a7-e328-cccd-07f4" hidden="false"/>
-    <categoryEntry id="b131-4f0a-48c5-e40c" name="Beutepanzer UDSSR" publicationId="10e8-2556-101e-7b7b" hidden="false"/>
-    <categoryEntry id="0ddf-323d-ad46-c98e" name="Beutepanzer USA" publicationId="d531-ebe9-e8fe-100f" hidden="false"/>
-    <categoryEntry id="8bb4-ffca-4655-64ea" name="Beutepanzer Italien" publicationId="ddbb-0496-8bd8-5d37" hidden="false"/>
-    <categoryEntry id="caf6-0732-5116-2698" name="Beutepanzer Japan" publicationId="0321-8f7f-0a93-085e" hidden="false"/>
+    <categoryEntry id="eca7-16bf-4d09-9209" name="Beutefahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <rules>
+        <rule id="f7e1-41fa-740b-dd32" name="Beutefahrzeug" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <description>
+Beutefahrzeuge im Sinne von Behind Omaha sind Fahrzeuge, die aus Profillisten gegnerischer Fraktionen stammen und bei der Aufstellung der eigenen Armee unter folgenden Voraussetzungen in die Armeeliste aufgenommen werden:
+-sie dürfen maximal 15% der Gesamtpunktzahl der Armee ausmachen.
+-Modelle der Alliierten, die unter &quot;Lend-Lease&quot;-Vertägen an andere Nationen geliefert wurden, werden nicht als Beutefahrzeuge betrachtet.
+-Die Spieloption &quot;Verstärkungseinheiten&quot; (Abschnitt 2.4.1) gilt nicht für Beutefahrzeuge.
+
+Wenn Beutefahrzeuge genutzt werden besteht die Gefahr, dass man die eigene Einheit beschießt oder zu spät auf den Gegner reagiert. Um auf ein gegnerisches Beutefahrzeug schießen zu dürfen muss zuvor ein &quot;6 geworfen werden, falls das Ziel mehr als die halbe Schussreichweite entfernt ist. Bei einem Ergebnis von W6=4+ wird das Beutefahrzeug erkannt und darf nach normalen Regeln beschossen werden. Misslingt der Wurf, darf das Fahrzeug nicht beschossen werden.
+Sind Beutefahrzeuge teil der eigenen Armee, so muss in der Schussphase ein W6 geworfen werden, wenn
+-sich das Beutefahrzeug im Wirkbereich einer schießenden Einheit efindet, die auch Schaden verursachen könnte und
+-das Beutefahrzeug mehr als die Hälfte der Schussreichweite von der schießenden Einheit entfernt ist.
+
+Bei einem Ergebnis von W6=4+ muss in der eigenen Schusspase auf das eigene Beutefahrzeug geschossen werden.</description>
+        </rule>
+      </rules>
+    </categoryEntry>
     <categoryEntry id="599e-8bdf-eba4-c2ff" name="Exot" publicationId="5779-490e-3c63-5d39" hidden="false"/>
     <categoryEntry id="f720-a832-fc0b-bc46" name="Spieloption: Exotenliste" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
     <categoryEntry id="2ff2-62ce-ca97-a1f1" name="Nation: Deutschland" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
@@ -319,6 +435,71 @@ Transportfahrzeuge können auch als Sanitätsfahrzeug eingesetzt werden. Sie dü
     <categoryEntry id="5354-0ed8-d47b-400f" name="Panzerabwehrhandwaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
     <categoryEntry id="e93c-44ea-675f-24dc" name="leichter Mörser/Gewehrgranate" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
     <categoryEntry id="289f-835d-a59f-2cc2" name="Panzerbüchse" publicationId="3ea7-b0db-2a41-9265" hidden="false"/>
+    <categoryEntry id="6f36-b5f6-b1b2-b5bf" name="Kampfmittel" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+      <infoGroups>
+        <infoGroup id="c299-3955-1fc3-8f1f" name="Kampfmittel" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+          <profiles>
+            <profile id="e0b3-897b-df3d-c5e2" name="Panzerfaust" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+              <characteristics>
+                <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">30</characteristic>
+                <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+                <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+                <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+                <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+                <characteristic name="RP" typeId="dc51-226e-44e2-601b">1</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="6274-ace5-126d-8a02" name="Haft-/Sprengladung" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+              <characteristics>
+                <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">-</characteristic>
+                <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+                <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+                <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+                <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+                <characteristic name="RP" typeId="dc51-226e-44e2-601b">2</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="326a-a6f3-2942-a846" name="Handgranate" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+              <characteristics>
+                <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">10</characteristic>
+                <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+                <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+                <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+                <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+                <characteristic name="RP" typeId="dc51-226e-44e2-601b">1</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="7205-76fe-0549-9ac5" name="Nebelmittel" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+              <characteristics>
+                <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">10</characteristic>
+                <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+                <characteristic name="S" typeId="fe78-b54c-1671-64db">-</characteristic>
+                <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+                <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">kN</characteristic>
+                <characteristic name="RP" typeId="dc51-226e-44e2-601b">1</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <rules>
+            <rule id="90dd-8c72-b050-d8f5" name="Kampfmittel" publicationId="3ea7-b0db-2a41-9265" hidden="false">
+              <description>
+Kampfmittel werden durch Infanteristen mitgeführt. Kampfmittel sollen die Durchhaltefähigkeit beim Angriff auch in der Verteidigung erhöhen. Sie sind jedoch begrenzt verfügbar.
+
+Kampfmittel werden wie folgt repräsentiert:
+-für Kampfmittel müssen Ressourcenpunkte bezahlt werden.
+-Kampfmittel haben nur eine Anwendung.
+-es dürfen pro Infantrietrupp nur maximal 2 Kampfmittel pro Schussphase eingesetzt werden.
+-Kampfmittel werden in der Schussphase eingesetzt und die RP werden vor dem Schuss entrichtet.
+-werden Kampfmittel nicht in der Schussphase eingesetzt,  in der die RP bezahlt wurden, zählt das Kampfmittel als Blindgänger und die RP verfallen.
+-Kampfmittel dürfen nicht eingesetzt werden durch:
+	-Schützen mit schweren Waffen
+	-Bedienern einer IUW
+	-Sanitäter</description>
+            </rule>
+          </rules>
+        </infoGroup>
+      </infoGroups>
+    </categoryEntry>
   </categoryEntries>
   <forceEntries>
     <forceEntry id="5891-a4d8-b060-b0a9" name="Standard" publicationId="3ea7-b0db-2a41-9265" hidden="false">
@@ -603,7 +784,7 @@ mit Sichtlinie innerhalb des angegebenen Tarnradius aufhalten
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="40.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="5d62-fa66-6453-80aa" name="Panzerabwerhandwaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="5d62-fa66-6453-80aa" name="Panzerabwehrhandwaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="a12b-5d5a-ff96-1cbd" name="Panzerabwehrhandwaffe" publicationId="3ea7-b0db-2a41-9265" hidden="false" targetId="5be5-3e5c-dfcb-ded8" type="profile"/>
       </infoLinks>

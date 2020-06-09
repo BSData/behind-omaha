@@ -3829,6 +3829,7 @@
     <selectionEntry id="ac06-1133-54f1-f261" name="Infantrietrupp" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="2174-2513-5b12-4ef2" name="New CategoryLink" hidden="false" targetId="220e-c12c-7327-57e7" primary="true"/>
+        <categoryLink id="b25d-aadc-624e-dcf5" name="Kampfmittel" hidden="false" targetId="6f36-b5f6-b1b2-b5bf" primary="false"/>
       </categoryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="ff45-6fab-0e2a-b0c7" name="Infanteristen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">

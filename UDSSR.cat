@@ -787,6 +787,7 @@
     <selectionEntry id="a2d6-acf6-4e8a-ac68" name="Infantrietrupp" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="9437-7124-b950-f371" name="New CategoryLink" hidden="false" targetId="220e-c12c-7327-57e7" primary="true"/>
+        <categoryLink id="19a9-a21e-6f3e-b75d" name="Kampfmittel" hidden="false" targetId="6f36-b5f6-b1b2-b5bf" primary="false"/>
       </categoryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="e55e-1e7e-7354-4ddb" name="Berittene Infantrie" publicationId="3ea7-b0db-2a41-9265" page="22" hidden="false" collective="false" import="true">
