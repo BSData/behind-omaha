@@ -939,6 +939,7 @@
             <entryLink id="cbb8-2219-992b-42c1" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="57cd-d7a9-7968-271b" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="77.0"/>
@@ -959,6 +960,7 @@
             <entryLink id="2667-c7a5-f9a6-fe75" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="ccbd-9c81-3a94-33fd" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="92.0"/>
@@ -979,6 +981,7 @@
             <entryLink id="56a1-0fd4-440a-39c6" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="8e0a-2bc5-a682-0b06" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="106.0"/>
@@ -999,6 +1002,7 @@
             <entryLink id="0337-716d-bc2e-c67d" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="c581-d22f-3d15-4d70" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="154.0"/>
@@ -1281,6 +1285,7 @@
             <entryLink id="8787-d378-41f0-84ba" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="3ba0-8609-6006-1add" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="118.0"/>
@@ -1303,6 +1308,7 @@
             <entryLink id="2e5d-9062-1653-eaed" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="76ac-74c5-1ea9-608e" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="116.0"/>
@@ -1443,6 +1449,7 @@
             <entryLink id="763c-59d0-aa96-5380" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="5a97-86f2-4e0f-e752" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="58.0"/>
@@ -1463,6 +1470,7 @@
             <entryLink id="6ab9-3274-5906-7a51" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="9fb5-b4e8-0860-f4bd" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="62.0"/>
@@ -1483,6 +1491,7 @@
             <entryLink id="d6dc-be75-b099-c449" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="a374-2d5e-0857-9e86" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="102.0"/>
@@ -1503,6 +1512,7 @@
             <entryLink id="8294-5c5e-d9c8-3994" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="91b9-79dc-b1b4-dc0d" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="92.0"/>
@@ -1523,6 +1533,7 @@
             <entryLink id="b5da-22d5-c849-ab7b" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="6498-9f52-292b-53ed" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="105.0"/>
@@ -1762,6 +1773,7 @@
             <entryLink id="8680-fcf0-d1d3-1cb8" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="165e-bce0-150a-fac0" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="68.0"/>
@@ -1784,6 +1796,7 @@
             <entryLink id="0e10-8c90-0a5b-9fe5" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="9f25-a1ff-9f7c-a82f" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="68.0"/>
@@ -1806,6 +1819,7 @@
             <entryLink id="374c-5396-b9d6-0633" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="996d-b427-f350-9d4d" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="68.0"/>
@@ -1828,6 +1842,7 @@
             <entryLink id="d9fc-5e1e-b6f6-9b06" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="5f4d-0aef-f621-cd5c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="93.0"/>
@@ -1850,6 +1865,7 @@
             <entryLink id="6f32-e919-9f49-93d8" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="e9d8-6d77-f71b-fab2" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="93.0"/>
@@ -1872,6 +1888,7 @@
             <entryLink id="6eb9-02ea-be64-d155" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="efde-36c2-21d6-84a3" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="93.0"/>
@@ -1894,6 +1911,7 @@
             <entryLink id="9cf3-0e00-74e4-f5de" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="f374-1bab-8a72-5a3f" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="95.0"/>
@@ -1916,6 +1934,7 @@
             <entryLink id="31c5-a802-b89b-8c2c" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="2f35-38b3-39ac-843a" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="95.0"/>
@@ -1938,6 +1957,7 @@
             <entryLink id="b593-ff6d-7d8e-ff5f" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="f597-e9df-d9d9-0cd1" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="95.0"/>
@@ -1960,6 +1980,7 @@
             <entryLink id="5c5f-41cc-edd4-7080" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="f484-0e75-e669-0039" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="96.0"/>
@@ -1982,6 +2003,7 @@
             <entryLink id="f9ab-aa00-fdfa-8930" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="0cc5-6625-f539-1cbe" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="93.0"/>
@@ -2004,6 +2026,7 @@
             <entryLink id="756d-857a-5200-bbe3" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="25b1-1160-fab7-5d2e" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="105.0"/>
@@ -2026,6 +2049,7 @@
             <entryLink id="50ff-1150-bbfd-e753" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="9a1e-fd9a-a26b-1822" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="103.0"/>
@@ -2048,6 +2072,7 @@
             <entryLink id="33e4-c4e5-85a4-9477" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="40fe-8b93-19f8-301f" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="198.0"/>
@@ -2070,6 +2095,7 @@
             <entryLink id="c2f2-b913-6457-2480" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="3dff-f463-86e5-9b49" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="198.0"/>
@@ -2092,6 +2118,7 @@
             <entryLink id="2e4a-02dc-e494-16cd" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="1737-dab4-a14f-495d" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="186.0"/>
@@ -2114,6 +2141,7 @@
             <entryLink id="f72f-5abf-c889-eb64" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="24d1-cd49-f374-fd46" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="150.0"/>
@@ -2136,6 +2164,7 @@
             <entryLink id="e1a9-1e7f-c362-a6ac" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="f1fb-340c-61f2-df9f" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="157.0"/>
@@ -2158,6 +2187,7 @@
             <entryLink id="e01f-edeb-639d-2f6c" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="e7b6-d404-7ae0-a7e4" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="157.0"/>
@@ -2180,6 +2210,7 @@
             <entryLink id="6959-8c74-6f6b-4878" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="e57c-ea0b-3528-3220" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="160.0"/>
@@ -2202,6 +2233,7 @@
             <entryLink id="e79a-52ea-3f88-3834" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="492b-016b-d2f4-10fb" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="174.0"/>
@@ -2224,6 +2256,7 @@
             <entryLink id="240b-434e-4afb-181e" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="0177-3c05-e131-1da8" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="194.0"/>
@@ -2246,6 +2279,7 @@
             <entryLink id="7a68-3e1b-a152-c976" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="9e79-cbc0-dc84-39ee" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="194.0"/>
@@ -2268,6 +2302,7 @@
             <entryLink id="a04b-417d-4d35-20d9" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="54e4-a714-0987-aafb" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="194.0"/>
@@ -2290,6 +2325,7 @@
             <entryLink id="27dd-691b-d734-aca6" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="e577-8736-66d9-b607" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="310.0"/>
@@ -2312,6 +2348,7 @@
             <entryLink id="092d-55c9-7428-a85e" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="e3af-5864-79e1-7a0c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="296.0"/>
@@ -2334,6 +2371,7 @@
             <entryLink id="362d-086e-ec42-0d7f" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="1059-cb6a-c216-1c48" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="318.0"/>
@@ -2356,6 +2394,7 @@
             <entryLink id="fe01-3883-53db-0736" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="0e4a-2cdf-dcf0-0c3b" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="324.0"/>
@@ -2378,6 +2417,7 @@
             <entryLink id="229c-fd7e-2563-55d0" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="4e18-914a-d354-4732" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="324.0"/>
@@ -2400,6 +2440,7 @@
             <entryLink id="7a26-d0f3-d126-d751" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="7d94-b467-5a8f-54ab" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="416.0"/>
@@ -2553,11 +2594,12 @@
         <categoryLink id="1125-28aa-7d33-f377" name="Panzerjäger I" hidden="false" targetId="6e13-d7c1-a2d7-006b" primary="false"/>
       </categoryLinks>
       <entryLinks>
-        <entryLink id="43ab-c247-3186-117e" name="Kampfwertsteigerungen_ger" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+        <entryLink id="43ab-c247-3186-117e" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
           <entryLinks>
             <entryLink id="97e5-e254-0315-e23e" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="c326-756f-bb39-5793" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="74.0"/>
@@ -2579,6 +2621,7 @@
             <entryLink id="4b93-3fac-058e-7c5c" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="03da-a128-9f7b-b172" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="138.0"/>
@@ -2600,6 +2643,7 @@
             <entryLink id="979c-7b1e-a1c7-9e7f" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="5e4e-3347-f1ef-373b" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="138.0"/>
@@ -2621,6 +2665,7 @@
             <entryLink id="22bc-d8a4-6041-9cc9" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="b482-896b-5a7e-caf9" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="138.0"/>
@@ -2642,6 +2687,7 @@
             <entryLink id="c8cb-7921-067d-5f29" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="b5f3-a383-99f3-be85" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="138.0"/>
@@ -2663,6 +2709,7 @@
             <entryLink id="507b-66e4-18ac-5903" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="8aaa-d659-b8e1-971a" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="244.0"/>
@@ -2684,6 +2731,7 @@
             <entryLink id="1ad3-23b8-979e-26c9" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="ae94-d8c2-ea23-ff00" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="125.0"/>
@@ -2705,6 +2753,7 @@
             <entryLink id="1605-c104-c2ef-6765" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="976c-b08f-4df2-6123" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="167.0"/>
@@ -2726,6 +2775,7 @@
             <entryLink id="a43f-a1a1-b3ac-086b" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="5650-c818-6b59-ad31" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="125.0"/>
@@ -2747,6 +2797,7 @@
             <entryLink id="2e67-9f2e-94ca-1ac8" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="6f3c-6045-1bf6-5675" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="125.0"/>
@@ -2768,6 +2819,7 @@
             <entryLink id="273d-9441-c3e9-fc79" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="7d52-1cab-fe7d-0d9a" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="125.0"/>
@@ -2789,6 +2841,7 @@
             <entryLink id="14ed-1e8b-9dc9-0644" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="b068-a175-a286-4fef" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="125.0"/>
@@ -2810,6 +2863,7 @@
             <entryLink id="20f1-4452-5786-ce35" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="2356-e8ff-a923-905f" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="139.0"/>
@@ -2831,6 +2885,7 @@
             <entryLink id="b858-d18c-b8da-c26f" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="24c5-26c3-7133-ecbf" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="160.0"/>
@@ -2853,6 +2908,7 @@
             <entryLink id="be26-0785-98ed-2f7f" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="52dc-fe80-c94f-d01c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="281.0"/>
@@ -2874,6 +2930,7 @@
             <entryLink id="b277-9e6b-776d-04b5" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="c9ce-2f68-0850-2ac3" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="164.0"/>
@@ -2895,6 +2952,7 @@
             <entryLink id="4280-9cca-8924-8506" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="beec-2d57-2e76-735c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="269.0"/>
@@ -2916,6 +2974,7 @@
             <entryLink id="3241-9aba-c4c2-8a80" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="1901-2321-2bca-e492" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="293.0"/>
@@ -2937,6 +2996,7 @@
             <entryLink id="ca4c-04cf-8b22-fe78" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="6939-b4d7-2592-27aa" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="377.0"/>
@@ -2958,6 +3018,7 @@
             <entryLink id="79d3-1fd4-5d9a-a234" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="7cee-dc3f-42b3-6765" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="395.0"/>
@@ -3000,6 +3061,7 @@
             <entryLink id="d5dd-fd36-1c2f-55c1" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="c5d8-7ebf-79ce-1c41" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="119.0"/>
@@ -3022,6 +3084,7 @@
             <entryLink id="a2bb-9e08-13c0-9846" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="d0d8-4fdf-ee2b-c3cf" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="162.0"/>
@@ -3044,6 +3107,7 @@
             <entryLink id="3470-b7bc-439e-991c" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="bb41-de85-17b3-1a2e" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="84.0"/>
@@ -3066,6 +3130,7 @@
             <entryLink id="6238-334a-b8ea-250f" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="cf17-859d-e391-491c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="166.0"/>
@@ -3172,6 +3237,7 @@
             <entryLink id="a429-e26f-06fd-9270" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="bc96-b2c5-045d-23a4" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="241.0"/>
@@ -3194,6 +3260,7 @@
             <entryLink id="b369-29a0-b485-a6e1" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="e6ea-8db0-c5af-c9d2" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="271.0"/>
@@ -3216,6 +3283,7 @@
             <entryLink id="7bd7-96ba-9548-28aa" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="2ac0-01c3-9173-b158" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="308.0"/>
@@ -3238,6 +3306,7 @@
             <entryLink id="c6e7-e48f-4e78-f533" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="e610-32cf-2a2b-404f" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="281.0"/>
@@ -3260,6 +3329,7 @@
             <entryLink id="d96b-a87a-10c6-8430" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="1848-9835-07d1-eaf4" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="278.0"/>
@@ -3282,6 +3352,7 @@
             <entryLink id="8c2f-c285-ca3d-8a67" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="9979-3b52-dcc9-52f7" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="325.0"/>
@@ -3304,6 +3375,7 @@
             <entryLink id="65ea-64a2-9afa-56de" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="d654-c54e-4ffe-df93" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="423.0"/>
@@ -3546,6 +3618,7 @@
             <entryLink id="d834-950e-d06c-c8bc" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="461b-73fc-59e2-abd5" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="74.0"/>
@@ -3590,6 +3663,7 @@
             <entryLink id="d04a-316a-003c-e834" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="6808-59a0-ee2c-c82d" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="86.0"/>
@@ -3612,6 +3686,7 @@
             <entryLink id="2f8a-78cf-a9da-2ee7" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="983d-35b4-a5f1-7ec6" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="99.0"/>
@@ -3634,6 +3709,7 @@
             <entryLink id="a663-88b1-ac1a-9d32" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="1fbf-31f8-7b5d-5bc4" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="93.0"/>
@@ -3656,6 +3732,7 @@
             <entryLink id="885d-ecc7-28a7-8ef1" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="d964-4fe5-2b00-29d7" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="103.0"/>
@@ -3678,6 +3755,7 @@
             <entryLink id="a7b3-a420-adfd-eea2" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="97f9-5175-0a15-32d1" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="150.0"/>
@@ -3699,6 +3777,7 @@
             <entryLink id="cba7-5b99-7d0e-b062" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="f4b5-e88c-a115-6e62" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="166.0"/>
@@ -3720,6 +3799,7 @@
             <entryLink id="c0bd-b572-7a75-657f" name="Zimmerit" hidden="false" collective="false" import="true" targetId="af3f-47bf-a3f6-607c" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="53d2-b1e1-2c08-59aa" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="383.0"/>
@@ -3749,6 +3829,7 @@
     <selectionEntry id="ac06-1133-54f1-f261" name="Infantrietrupp" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="2174-2513-5b12-4ef2" name="New CategoryLink" hidden="false" targetId="220e-c12c-7327-57e7" primary="true"/>
+        <categoryLink id="b25d-aadc-624e-dcf5" name="Kampfmittel" hidden="false" targetId="6f36-b5f6-b1b2-b5bf" primary="false"/>
       </categoryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="ff45-6fab-0e2a-b0c7" name="Infanteristen" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true">
