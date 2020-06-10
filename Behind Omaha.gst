@@ -45,6 +45,18 @@
         <characteristicType id="67d9-c4c9-8b37-8be8" name="Bewegung"/>
       </characteristicTypes>
     </profileType>
+    <profileType id="d15f-6d56-91ad-1f30" name="Anzahl der Würfel für den Abweichungswurf">
+      <characteristicTypes>
+        <characteristicType id="33d9-e6b7-1d0c-12ce" name="Stärke"/>
+        <characteristicType id="aaf5-74e8-2faf-5e96" name="Schablone"/>
+      </characteristicTypes>
+    </profileType>
+    <profileType id="5c0c-257b-f38b-94b3" name="RP-Kosten für das Schießen mit">
+      <characteristicTypes>
+        <characteristicType id="a177-bd8d-e57d-0956" name="Wirkmunition"/>
+        <characteristicType id="41f0-4583-c5e8-0b33" name="Nebelmunition"/>
+      </characteristicTypes>
+    </profileType>
   </profileTypes>
   <categoryEntries>
     <categoryEntry id="220e-c12c-7327-57e7" name="Infantrie" publicationId="3ea7-b0db-2a41-9265" hidden="false">
@@ -699,6 +711,67 @@ Kampfmittel werden wie folgt repräsentiert:
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="30.0"/>
       </costs>
+    </selectionEntry>
+    <selectionEntry id="510b-3144-1345-0434" name="Artillerietabelle" publicationId="3ea7-b0db-2a41-9265" hidden="false" collective="false" import="true" type="upgrade">
+      <profiles>
+        <profile id="0c7b-c095-c4ee-684b" name="leichte Mörser" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="5c0c-257b-f38b-94b3" typeName="RP-Kosten für das Schießen mit">
+          <characteristics>
+            <characteristic name="Wirkmunition" typeId="a177-bd8d-e57d-0956">1</characteristic>
+            <characteristic name="Nebelmunition" typeId="41f0-4583-c5e8-0b33">-</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="1f6b-dc95-f1db-5f4c" name="schwere Mörser" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="5c0c-257b-f38b-94b3" typeName="RP-Kosten für das Schießen mit">
+          <characteristics>
+            <characteristic name="Wirkmunition" typeId="a177-bd8d-e57d-0956">2</characteristic>
+            <characteristic name="Nebelmunition" typeId="41f0-4583-c5e8-0b33">1</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="ab3a-f111-f4cc-24a1" name="außerhalb eingesetzte Raketenartillerie" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="5c0c-257b-f38b-94b3" typeName="RP-Kosten für das Schießen mit">
+          <characteristics>
+            <characteristic name="Wirkmunition" typeId="a177-bd8d-e57d-0956">8</characteristic>
+            <characteristic name="Nebelmunition" typeId="41f0-4583-c5e8-0b33">6</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="c6e9-1206-71cb-8915" name="außerhalb eingesetzte Rohrartillerie" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="5c0c-257b-f38b-94b3" typeName="RP-Kosten für das Schießen mit">
+          <characteristics>
+            <characteristic name="Wirkmunition" typeId="a177-bd8d-e57d-0956">6</characteristic>
+            <characteristic name="Nebelmunition" typeId="41f0-4583-c5e8-0b33">4</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="29fc-5644-6a0d-02a8" name="innerhalb eingesetzte Rohrartillerie" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="5c0c-257b-f38b-94b3" typeName="RP-Kosten für das Schießen mit">
+          <characteristics>
+            <characteristic name="Wirkmunition" typeId="a177-bd8d-e57d-0956">4</characteristic>
+            <characteristic name="Nebelmunition" typeId="41f0-4583-c5e8-0b33">2</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="537e-fdab-2bc9-9d11" name="innerhalb eingesetzte Raketenartillerie" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="5c0c-257b-f38b-94b3" typeName="RP-Kosten für das Schießen mit">
+          <characteristics>
+            <characteristic name="Wirkmunition" typeId="a177-bd8d-e57d-0956">6</characteristic>
+            <characteristic name="Nebelmunition" typeId="41f0-4583-c5e8-0b33">4</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="3fad-0aed-2c5a-4da4" name="1" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="d15f-6d56-91ad-1f30" typeName="Anzahl der Würfel für den Abweichungswurf">
+          <characteristics>
+            <characteristic name="Stärke" typeId="33d9-e6b7-1d0c-12ce">2</characteristic>
+            <characteristic name="Schablone" typeId="aaf5-74e8-2faf-5e96">K</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="2cbf-dbaf-c1d9-3ba4" name="2" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="d15f-6d56-91ad-1f30" typeName="Anzahl der Würfel für den Abweichungswurf">
+          <characteristics>
+            <characteristic name="Stärke" typeId="33d9-e6b7-1d0c-12ce">3</characteristic>
+            <characteristic name="Schablone" typeId="aaf5-74e8-2faf-5e96">M</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="8358-0943-0ca8-d554" name="3" publicationId="3ea7-b0db-2a41-9265" hidden="false" typeId="d15f-6d56-91ad-1f30" typeName="Anzahl der Würfel für den Abweichungswurf">
+          <characteristics>
+            <characteristic name="Stärke" typeId="33d9-e6b7-1d0c-12ce">4</characteristic>
+            <characteristic name="Schablone" typeId="aaf5-74e8-2faf-5e96">G</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="79fe-7658-7e7a-f6c9" name="New CategoryLink" hidden="false" targetId="ec7c-e71f-8c27-53be" primary="true"/>
+      </categoryLinks>
     </selectionEntry>
   </selectionEntries>
   <rules>
