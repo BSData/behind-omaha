@@ -493,7 +493,7 @@
         </profile>
       </profiles>
     </categoryEntry>
-    <categoryEntry id="cbee-d0ea-024a-a835" name="Cromwell ARV" publicationId="cb8d-b248-37d2-4542" hidden="false">
+    <categoryEntry id="cbee-d0ea-024a-a835" name="A27L Centaur ARV" publicationId="cb8d-b248-37d2-4542" hidden="false">
       <profiles>
         <profile id="842d-a458-e7fa-5ef5" name="Cromwell ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
           <characteristics>
@@ -511,7 +511,7 @@
         </profile>
       </profiles>
     </categoryEntry>
-    <categoryEntry id="8167-db87-92ce-1407" name="Churchill ARV" publicationId="cb8d-b248-37d2-4542" hidden="false">
+    <categoryEntry id="8167-db87-92ce-1407" name="A22 Churchill ARV" publicationId="cb8d-b248-37d2-4542" hidden="false">
       <profiles>
         <profile id="4c9e-56f9-6a04-c6f7" name="Churchill ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
           <characteristics>
@@ -528,6 +528,247 @@
           </characteristics>
         </profile>
       </profiles>
+    </categoryEntry>
+    <categoryEntry id="5e85-c498-08a3-3619" name="Scamell Pioneer R100" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="8488-9f50-aa42-f630" name="Scamell Pioneer R100" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">1</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">1</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">1</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">1</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </categoryEntry>
+    <categoryEntry id="1717-0456-abce-0762" name="Chevrolet C60S" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="2dea-ecd6-810d-4dd8" name="Chevrolet C60S" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">1</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">1</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">1</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">1</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </categoryEntry>
+    <categoryEntry id="dbd3-642d-9db8-d0c6" name="Daimler Dingo" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="5686-840e-50ad-6a5c" name="Daimler Dingo" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">30</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">3</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">1</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </categoryEntry>
+    <categoryEntry id="dede-ff13-7e5c-f85a" name="M3 &quot;Jalopy&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="3868-0bb2-16d9-7532" name="M3 Jalopy" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">5</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">4</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">4</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </categoryEntry>
+    <categoryEntry id="c7f5-648b-d663-4eae" name="Rolls-Royce (Pattern 1920 Mk. I)" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="3202-dbdf-f549-4206" name="Rolls-Royce (Pattern 1920 Mk. I)" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="ac9e-ceb8-1872-b9b6" name=".303 Vickers Machine Gun (DS)" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="4b05-2c48-d5a1-284a" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="944b-f0c4-6265-dd7f" name="Otter recce car" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="7e6e-fe98-17e5-8774" name="Otter recce car" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="a602-4e72-8e39-8d69" name=".303 Vickers Machine Gun (DS)" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="4b05-2c48-d5a1-284a" type="profile"/>
+        <infoLink id="fc32-a9a6-b2d6-1660" name="Boys anti-tank rifle" hidden="true" targetId="c6be-7576-9b0f-6bf0" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="bd95-d61d-5809-149b" name="Humber Mk. II" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="db21-1c4e-0e83-9ced" name="Humber Mk. II" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">30</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="8872-4b9e-d279-95bc" name="15mm BESA machine gun" hidden="false" targetId="7582-9e13-5aa6-5086" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="1b38-52b0-32d3-1fe4" name="Daimler Mk. II" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="41e8-11eb-2f29-90d5" name="Daimler Mk. II" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">30</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">2</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="7aad-4466-dc53-8fae" name="Ordnance QF 2pdr" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="693f-315b-533b-fb70" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="4267-5927-148c-57a9" name="Staghound Mk. I" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="85b4-1e38-3e58-b6d4" name="Staghound Mk. I" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">30</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">3</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">2</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">2</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="8ae0-6bb4-99da-60dc" name="37mm gun M3" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="337c-f65c-01a2-4b69" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="66b8-dac2-a057-0e41" name="M3 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="1ea5-2cda-a27b-c47b" name="M3 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">5</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">4</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">4</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="98d3-2454-4844-8a24" name="37mm gun M6" hidden="false" targetId="337c-f65c-01a2-4b69" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="2d80-50f5-a1a2-6aa5" name="M5 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="725e-1f61-e5fa-c9a0" name="M5 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">5</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">4</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">4</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="59b3-9e9c-4317-c4cf" name="37mm gun M6" hidden="false" targetId="337c-f65c-01a2-4b69" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="fba6-0680-f1e2-b717" name="A27M Cromwell" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="7749-760e-1760-3c35" name="A27M Cromwell" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">7</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">5</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">5</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">3</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="8981-9abe-15c4-a4fd" name="Ordnance QF 75mm" hidden="false" targetId="0ce2-d6ba-f06c-b11c" type="profile"/>
+      </infoLinks>
     </categoryEntry>
   </categoryEntries>
   <selectionEntries>
@@ -1540,6 +1781,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="bb37-c596-b983-d3f7" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="eb6f-1bd4-6e4e-5048" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="100.0"/>
@@ -1574,6 +1816,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="2269-508f-ff21-24cf" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="bbe2-15fe-dc23-2f54" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="55.0"/>
@@ -1591,12 +1834,13 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="8b56-9d9c-efd5-baea" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="64fe-8da7-b0f0-4d79" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="97.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0252-5ea6-cbbf-245a" name="Cromwell ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="0252-5ea6-cbbf-245a" name="A27L Centaur ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="3b70-7db7-5e82-8a17" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
         <categoryLink id="09fc-f5b7-0cbc-4044" name="New CategoryLink" hidden="false" targetId="46d8-3d26-7644-f260" primary="true"/>
@@ -1608,12 +1852,13 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="2691-5bf2-bc28-afb5" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="da1e-d089-03f3-069b" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="97.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8cf6-e94e-6995-95cf" name="Churchill ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="8cf6-e94e-6995-95cf" name="A22 Churchill Mk. I ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="54db-57b5-5256-992c" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
         <categoryLink id="fc73-c271-2451-5d9e" name="New CategoryLink" hidden="false" targetId="46d8-3d26-7644-f260" primary="true"/>
@@ -1625,9 +1870,313 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
             <entryLink id="8393-52e8-2cae-8c58" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
           </entryLinks>
         </entryLink>
+        <entryLink id="8f04-c0b7-58f8-16fa" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="97.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2776-13e2-ad68-f77a" name="Scammell Pioneer R100" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b29f-9910-6e40-362e" name="New CategoryLink" hidden="false" targetId="5e85-c498-08a3-3619" primary="false"/>
+        <categoryLink id="bb59-5c52-26ca-93c0" name="New CategoryLink" hidden="false" targetId="3af4-b15e-0860-289d" primary="true"/>
+        <categoryLink id="0005-26b2-2a10-1f17" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="513e-79af-fbfa-0bc8" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="c3d2-f9e5-9100-d66b" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="51.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7f3d-a602-46d4-85be" name="Bedford QLB" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="8a5d-6d90-fa70-b3f0" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="c781-53a3-83d3-6e9f" name="Bedford QLB" hidden="false" targetId="60d0-0afc-2b82-0260" primary="false"/>
+        <categoryLink id="772d-90c4-2a9a-84ec" name="New CategoryLink" hidden="false" targetId="3af4-b15e-0860-289d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="f650-8031-7fc2-d574" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="ac50-7391-975d-d1da" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="51.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="854f-da4c-2d20-d4a1" name="A22 Churchill Mk. I ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="0078-6b13-8646-1d8d" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="f149-5cbf-2309-ed55" name="Churchill ARV" hidden="false" targetId="8167-db87-92ce-1407" primary="false"/>
+        <categoryLink id="bf51-308a-867e-cf1e" name="New CategoryLink" hidden="false" targetId="3af4-b15e-0860-289d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="d695-f357-49fd-72bf" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="36c6-1815-7753-adf7" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="f472-c7ee-b586-f754" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="97.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e851-4d86-030b-4055" name="A27L Centaur ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="ef71-7bb6-d722-f48b" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="6ec2-c388-cd72-9423" name="Cromwell ARV" hidden="false" targetId="cbee-d0ea-024a-a835" primary="false"/>
+        <categoryLink id="7c21-40aa-ece5-c703" name="New CategoryLink" hidden="false" targetId="3af4-b15e-0860-289d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="66f5-461c-6181-e60c" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="beb2-387c-34ea-f739" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="e58f-ae6f-b25b-2fc0" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="97.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="19d2-335d-8e64-53aa" name="M4 Sherman ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="6666-a787-318b-e48f" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="9503-fa0f-fb30-5d21" name="M4 Sherman ARV" hidden="false" targetId="338c-3e89-712d-2afc" primary="false"/>
+        <categoryLink id="ef68-5c60-3bb6-5f71" name="New CategoryLink" hidden="false" targetId="3af4-b15e-0860-289d" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="b4e8-fb6a-43d8-c8fd" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="53f3-2324-73df-bf22" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="ca3c-3f65-f248-9f20" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="97.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1fee-c614-c111-012d" name="Daimler Dingo" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="0a29-8c8f-5a9c-8e31" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="9b98-d191-f699-9129" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="7cd0-1794-08e7-61ff" name="Daimler Dingo" hidden="false" targetId="dbd3-642d-9db8-d0c6" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="78b8-5d21-7a92-5f64" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="ce34-0282-7e14-8ce4" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="63.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4362-f53f-4a2a-68c4" name="Universal Carrier" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="0649-ed14-1766-4db3" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="a4e1-bf2e-eee1-9f5e" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="8e06-c083-ec10-6341" name="Universal Carrier" hidden="false" targetId="d601-6758-43cc-a99e" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="d551-0a17-71c0-0b5a" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="fdb9-11c7-22e5-8a93" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="67.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dfd1-a706-368f-99f0" name="M5 half-track" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="4876-3a14-23d2-23e0" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="5cd7-b112-9da7-8f44" name="M5 half-track" hidden="false" targetId="59fb-c59e-e2e0-62a0" primary="false"/>
+        <categoryLink id="eee6-9c14-1f3c-a821" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="2f97-5e5d-3151-1200" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="f9da-16d4-a82d-c744" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="72.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="63c7-b7ef-e38b-7bf7" name="M3 &quot;Jalopy&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="4777-5a06-9b4d-6734" name="M3 Jalopy" hidden="false" targetId="dede-ff13-7e5c-f85a" primary="false"/>
+        <categoryLink id="22da-b3ff-16a8-4ad7" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="dcf5-b04b-da17-64e0" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="6129-3c57-68de-8236" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="24ca-c8af-812d-4234" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="2e62-e07b-8b9d-44ae" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c288-5c89-5ac8-4566" name="Rolls-Royce (Pattern 1920 Mk. I)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="f851-9a5f-8724-3ad8" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="b9ac-e953-83f1-b5db" name="Rolls-Royce (Pattern 1920 Mk. I)" hidden="false" targetId="c7f5-648b-d663-4eae" primary="false"/>
+        <categoryLink id="5029-09bf-45fc-4d49" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="efd3-5fe1-a69a-949a" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="dce7-ff38-e174-114c" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="73.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8c3d-18ed-2831-e418" name="Otter recce car" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b7bc-915b-b4ea-a7d3" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="856f-b0f2-f029-2f61" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="d130-bd27-f388-abc9" name="Otter recce car" hidden="false" targetId="944b-f0c4-6265-dd7f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="c049-b3f5-731c-2a93" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="c219-e89b-6dd2-ce6f" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="73.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="636a-3095-bc7c-17f3" name="Humber Mk. II" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="2962-14e4-ffe9-b52a" name="Humber Mk. II" hidden="false" targetId="bd95-d61d-5809-149b" primary="false"/>
+        <categoryLink id="6f6a-d35e-9d35-bc27" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="cf64-36c9-841b-c1f9" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="5ee8-909e-c1f2-b35c" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="5dc4-a523-4583-aaf1" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="8c5e-d319-b7d1-9215" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="83.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4b71-b02e-5805-a866" name="Daimler Mk. II" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="9926-ee88-d6dc-2878" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="d6c0-43f3-1418-4629" name="Daimler Mk. II" hidden="false" targetId="1b38-52b0-32d3-1fe4" primary="false"/>
+        <categoryLink id="b035-b07b-e1ce-8d12" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="e1d9-af04-e216-bac5" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="61b9-3bbd-fb47-cd08" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="3708-e5e6-22a9-b634" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="119.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ee01-e8bb-4211-4b5d" name="Staghound Mk. I" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="71cd-ea9d-c9bb-5733" name="Staghound Mk. I" hidden="false" targetId="4267-5927-148c-57a9" primary="false"/>
+        <categoryLink id="dd9a-9429-59f9-c683" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="2462-0f57-d252-23b1" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="ad59-d99d-107a-9a86" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="39a8-49e7-125e-885c" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="a866-2d45-194d-f440" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="134e-79b6-f844-6a90" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="123.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9dcb-9a46-0267-3e24" name="M3 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="0c40-fd96-20c8-e64a" name="M3 &quot;Stuart&quot;" hidden="false" targetId="66b8-dac2-a057-0e41" primary="false"/>
+        <categoryLink id="0e93-a60d-cfe6-9ece" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="23bf-d9f1-d068-bae2" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="3f3e-ce6b-a550-a847" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="b684-b9cc-de4c-c89e" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="0958-cfa4-54d1-99e5" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="efce-7c67-f761-fe3c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="133.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3a39-4c58-d95f-d9b8" name="M5 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="bd47-a06a-d5f6-a19a" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="cfb2-9549-001a-57d2" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="1726-6205-63d5-a52a" name="M5 &quot;Stuart&quot;" hidden="false" targetId="2d80-50f5-a1a2-6aa5" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="4b7b-b23c-1162-3c24" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="8820-fbc4-f737-7867" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+            <entryLink id="fa40-9bd5-4f2f-d9e5" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="a5a8-3477-25ab-d631" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="133.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="62a1-d71b-bbf0-7a82" name="A27M Cromwell" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="147d-4c11-c792-e66e" name="A27M Cromwell" hidden="false" targetId="fba6-0680-f1e2-b717" primary="false"/>
+        <categoryLink id="3eb7-4644-d11d-9c54" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
+        <categoryLink id="9aeb-b955-0343-3209" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="50c9-efcc-d329-f164" name="Zusatzausrüstung" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="40bd-62b8-c35a-38a6" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="89cb-f046-2267-f3e8" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="4cfa-7027-1609-82f4" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="218.0"/>
       </costs>
     </selectionEntry>
   </selectionEntries>
@@ -1668,6 +2217,56 @@ unüberwindbares Gelände/Hindernissen in schwieriges Gelände umgewandelt werde
         <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
         <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
         <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="4b05-2c48-d5a1-284a" name=".303 Vickers Machine Gun (DS)" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">40</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">3</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">1</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="7582-9e13-5aa6-5086" name="15mm BESA machine gun" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">2</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">1</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="693f-315b-533b-fb70" name="Ordnance QF 2pdr" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">3</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="337c-f65c-01a2-4b69" name="37mm gun M6" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">50</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">2</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">4</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">-</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="0ce2-d6ba-f06c-b11c" name="Ordnance QF 75mm" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
         <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
         <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
       </characteristics>
