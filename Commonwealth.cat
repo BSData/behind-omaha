@@ -475,9 +475,9 @@
         </profile>
       </profiles>
     </categoryEntry>
-    <categoryEntry id="338c-3e89-712d-2afc" name="M4 Sherman ARV" publicationId="cb8d-b248-37d2-4542" hidden="false">
+    <categoryEntry id="338c-3e89-712d-2afc" name="Medium Tank M4 &quot;Sherman&quot; ARV" publicationId="cb8d-b248-37d2-4542" hidden="false">
       <profiles>
-        <profile id="e3aa-6ddb-101e-3756" name="M4 Sherman ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+        <profile id="e3aa-6ddb-101e-3756" name="Medium Tank M4 &quot;Sherman&quot; ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
           <characteristics>
             <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
             <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
@@ -511,7 +511,7 @@
         </profile>
       </profiles>
     </categoryEntry>
-    <categoryEntry id="8167-db87-92ce-1407" name="Infantry Tank IV &quot;Churchill&quot; Mk. I (A22) ARV" publicationId="cb8d-b248-37d2-4542" hidden="false">
+    <categoryEntry id="8167-db87-92ce-1407" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. I (A22) ARV" publicationId="cb8d-b248-37d2-4542" hidden="false">
       <profiles>
         <profile id="4c9e-56f9-6a04-c6f7" name="Infantry Tank IV &quot;Churchill&quot; Mk. I (A22) ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
           <characteristics>
@@ -583,9 +583,9 @@
         </profile>
       </profiles>
     </categoryEntry>
-    <categoryEntry id="dede-ff13-7e5c-f85a" name="M3 &quot;Jalopy&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
+    <categoryEntry id="dede-ff13-7e5c-f85a" name="Light Tank M3 &quot;Stuart&quot; Recce &quot;Jalopy&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
       <profiles>
-        <profile id="3868-0bb2-16d9-7532" name="M3 Jalopy" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+        <profile id="3868-0bb2-16d9-7532" name="Light Tank M3 &quot;Stuart&quot; Recce (&quot;Jalopy&quot;)" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
           <characteristics>
             <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
             <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
@@ -707,9 +707,9 @@
         <infoLink id="8ae0-6bb4-99da-60dc" name="37mm gun M3" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="337c-f65c-01a2-4b69" type="profile"/>
       </infoLinks>
     </categoryEntry>
-    <categoryEntry id="66b8-dac2-a057-0e41" name="M3 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
+    <categoryEntry id="66b8-dac2-a057-0e41" name="Light Tank M3 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
       <profiles>
-        <profile id="1ea5-2cda-a27b-c47b" name="M3 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+        <profile id="1ea5-2cda-a27b-c47b" name="Light Tank M3 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
           <characteristics>
             <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
             <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
@@ -728,9 +728,9 @@
         <infoLink id="98d3-2454-4844-8a24" name="37mm gun M6" hidden="false" targetId="337c-f65c-01a2-4b69" type="profile"/>
       </infoLinks>
     </categoryEntry>
-    <categoryEntry id="2d80-50f5-a1a2-6aa5" name="M5 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
+    <categoryEntry id="2d80-50f5-a1a2-6aa5" name="Light Tank M5 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
       <profiles>
-        <profile id="725e-1f61-e5fa-c9a0" name="M5 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+        <profile id="725e-1f61-e5fa-c9a0" name="Light Tank M5 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
           <characteristics>
             <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
             <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
@@ -814,9 +814,9 @@
         </profile>
       </profiles>
     </categoryEntry>
-    <categoryEntry id="476c-4b09-5a1a-0a1c" name="Valentine Mk. III" publicationId="cb8d-b248-37d2-4542" hidden="false">
+    <categoryEntry id="476c-4b09-5a1a-0a1c" name="Infantry Tank Mk. III &quot;Valentine&quot; Mk. III OP" publicationId="cb8d-b248-37d2-4542" hidden="false">
       <profiles>
-        <profile id="f1ac-1749-20cc-d163" name="Valentine Mk. III" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+        <profile id="f1ac-1749-20cc-d163" name="Infantry Tank Mk. III &quot;Valentine&quot; Mk. III" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
           <characteristics>
             <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
             <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
@@ -832,27 +832,14 @@
         </profile>
       </profiles>
     </categoryEntry>
-    <categoryEntry id="11a6-25ee-ce9d-5f4b" name="M4 Sherman OP" publicationId="cb8d-b248-37d2-4542" hidden="false">
-      <profiles>
-        <profile id="8b1c-5938-6f50-3434" name="M4 Sherman OP" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
-          <characteristics>
-            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
-            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
-            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">8</characteristic>
-            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">5</characteristic>
-            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">5</characteristic>
-            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">3</characteristic>
-            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
-            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
-            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
-            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
-          </characteristics>
-        </profile>
-      </profiles>
+    <categoryEntry id="11a6-25ee-ce9d-5f4b" name="Medium Tank M4 &quot;Sherman&quot; OP" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <infoLinks>
+        <infoLink id="1e71-5863-8a93-0aa5" name="M4 Sherman" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="d3d7-c972-b673-4d35" type="profile"/>
+      </infoLinks>
     </categoryEntry>
-    <categoryEntry id="5167-f155-7115-7a99" name="Vickers Mk.VI" publicationId="cb8d-b248-37d2-4542" hidden="false">
+    <categoryEntry id="5167-f155-7115-7a99" name="Light Tank Mk. VI" publicationId="cb8d-b248-37d2-4542" hidden="false">
       <profiles>
-        <profile id="c468-c892-2076-fb34" name="Vickers Mk.VI" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+        <profile id="c468-c892-2076-fb34" name="Light Tank Mk.VI" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
           <characteristics>
             <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
             <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
@@ -1037,6 +1024,127 @@
       </profiles>
       <infoLinks>
         <infoLink id="a903-6be5-4799-c4f3" name="75mm Pack Howitzer M1 (DS)" hidden="false" targetId="e2b4-ec49-25b0-3dbb" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="1780-e81b-35d7-76e5" name="Infantry Tank Mk. III &quot;Valentine&quot; Mk. III" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="aea7-e036-210d-bce5" name="Infantry Tank Mk. III &quot;Valentine&quot; Mk. III" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">7</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">6</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">3</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">2</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="09f0-9218-534a-1f58" name="Ordnance QF 2pdr (DS)" hidden="false" targetId="693f-315b-533b-fb70" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="c17a-742b-8975-88a8" name="Infantry Tank Mk. II &quot;Matilda&quot; (A12)" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="5d87-b78f-89f0-a1e7" name="Infantry Tank Mk. II &quot;Matilda&quot; (A12)" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">8</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">7</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">7</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">3</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="67f2-683f-01e0-3272" name="Ordnance QF 2pdr (DS)" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="693f-315b-533b-fb70" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="0497-caa4-fd39-1f2a" name="Medium Tank M4 &quot;Sherman&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <infoLinks>
+        <infoLink id="6b28-b33c-751b-26f2" name="Medium Tank M4 Sherman" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="d3d7-c972-b673-4d35" type="profile"/>
+        <infoLink id="b53f-1643-c65e-41eb" name="75mm gun M3 (DS)" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="8d7b-79ca-133e-f136" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="5580-3d77-6f25-28d7" name="Medium Tank M4 &quot;Sherman Firefly&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <infoLinks>
+        <infoLink id="63c2-e097-8c84-2928" name="Medium Tank M4 &quot;Sherman&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="d3d7-c972-b673-4d35" type="profile"/>
+        <infoLink id="5304-e121-0484-83a4" name="Ordnance QF 17pdr (DS)" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="e66c-0283-7417-3b76" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="27d1-b2d9-9075-dfd9" name="Medium Tank M3 &quot;Grant&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="f05d-d1d1-b5fd-f961" name="Medium Tank M3 &quot;Grant&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">7</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">5</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">5</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">3</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">E/M/L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="4c94-cd32-25c8-72e1" name="37mm gun M6 (DS)" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="337c-f65c-01a2-4b69" type="profile"/>
+        <infoLink id="9f6a-30ab-a817-c3d8" name="75mm gun M3 (DS)" publicationId="cb8d-b248-37d2-4542" hidden="false" targetId="8d7b-79ca-133e-f136" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="09eb-7a81-2875-a9b8" name="Cruiser Tank Comet I (A34)" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <profiles>
+        <profile id="721b-298f-059c-8e84" name="Cruiser Tank Comet I (A34)" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+          <characteristics>
+            <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">25</characteristic>
+            <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+            <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">9</characteristic>
+            <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">5</characteristic>
+            <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">5</characteristic>
+            <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">3</characteristic>
+            <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+            <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+            <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+            <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">L</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="63a4-d265-32ee-4c9c" name="Ordnance QF 17pdr (DS)" hidden="false" targetId="e66c-0283-7417-3b76" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="368a-4043-4815-1a20" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. III (A22)" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <infoLinks>
+        <infoLink id="fc31-e49f-5761-bec4" name="Ordnance QF 6pdr (DS)" hidden="false" targetId="b4d6-5e11-c3e6-5843" type="profile"/>
+        <infoLink id="4f73-a0f7-c3ac-30e3" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. I-VI (A22)" hidden="false" targetId="943d-3dcf-0119-7194" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="67f0-105d-0305-bd49" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. II (A22)" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <infoLinks>
+        <infoLink id="fd9c-027a-059b-8197" name="Ordnance QF 2pdr (DS)" hidden="false" targetId="693f-315b-533b-fb70" type="profile"/>
+        <infoLink id="1057-efb4-ea38-5916" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. I-VI (A22)" hidden="false" targetId="943d-3dcf-0119-7194" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="6a25-68d6-9f42-36e4" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. IV (A22)" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <infoLinks>
+        <infoLink id="3764-06d4-3407-7969" name="Ordnance QF 6pdr (DS)" hidden="false" targetId="b4d6-5e11-c3e6-5843" type="profile"/>
+        <infoLink id="06ea-d6d3-789a-3c31" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. I-VI (A22)" hidden="false" targetId="943d-3dcf-0119-7194" type="profile"/>
+      </infoLinks>
+    </categoryEntry>
+    <categoryEntry id="beba-021b-bda3-8ea1" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. VII (A22)" publicationId="cb8d-b248-37d2-4542" hidden="false">
+      <infoLinks>
+        <infoLink id="a430-6cd4-722d-9106" name="Ordnance QF 75mm (DS)" hidden="false" targetId="0ce2-d6ba-f06c-b11c" type="profile"/>
+        <infoLink id="6d3e-aabb-0c0f-f7f2" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. VII (A22)" hidden="false" targetId="60c5-7cdc-982e-1f4c" type="profile"/>
       </infoLinks>
     </categoryEntry>
   </categoryEntries>
@@ -2091,7 +2199,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="55.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0e15-4d3e-5b2a-7b79" name="M4 Sherman ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="0e15-4d3e-5b2a-7b79" name="Medium Tank M4 Sherman ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="6e60-ca85-d4da-8ec1" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
         <categoryLink id="c8bd-ff4d-fafb-3d6c" name="New CategoryLink" hidden="false" targetId="46d8-3d26-7644-f260" primary="true"/>
@@ -2128,7 +2236,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="97.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="8cf6-e94e-6995-95cf" name="Infantry Tank IV &quot;Churchill&quot; Mk. I (A22) ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="8cf6-e94e-6995-95cf" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. I (A22) ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="54db-57b5-5256-992c" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
         <categoryLink id="fc73-c271-2451-5d9e" name="New CategoryLink" hidden="false" targetId="46d8-3d26-7644-f260" primary="true"/>
@@ -2181,7 +2289,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="51.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="854f-da4c-2d20-d4a1" name="Infantry Tank IV &quot;Churchill&quot; Mk. I (A22) ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="854f-da4c-2d20-d4a1" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. I (A22) ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="0078-6b13-8646-1d8d" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
         <categoryLink id="f149-5cbf-2309-ed55" name="Churchill ARV" hidden="false" targetId="8167-db87-92ce-1407" primary="false"/>
@@ -2219,7 +2327,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="97.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="19d2-335d-8e64-53aa" name="M4 Sherman ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="19d2-335d-8e64-53aa" name="Medium Tank M4 Sherman ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="6666-a787-318b-e48f" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
         <categoryLink id="9503-fa0f-fb30-5d21" name="M4 Sherman ARV" hidden="false" targetId="338c-3e89-712d-2afc" primary="false"/>
@@ -2289,7 +2397,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="72.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="63c7-b7ef-e38b-7bf7" name="M3 &quot;Jalopy&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="63c7-b7ef-e38b-7bf7" name="Light Tank M3 &quot;Stuart&quot; Recce (&quot;Jalopy&quot;)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="4777-5a06-9b4d-6734" name="M3 Jalopy" hidden="false" targetId="dede-ff13-7e5c-f85a" primary="false"/>
         <categoryLink id="22da-b3ff-16a8-4ad7" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
@@ -2397,7 +2505,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="123.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9dcb-9a46-0267-3e24" name="M3 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="9dcb-9a46-0267-3e24" name="Light Tank M3 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="0c40-fd96-20c8-e64a" name="M3 &quot;Stuart&quot;" hidden="false" targetId="66b8-dac2-a057-0e41" primary="false"/>
         <categoryLink id="0e93-a60d-cfe6-9ece" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
@@ -2416,7 +2524,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="133.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3a39-4c58-d95f-d9b8" name="M5 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="3a39-4c58-d95f-d9b8" name="Light Tank M5 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="bd47-a06a-d5f6-a19a" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
         <categoryLink id="cfb2-9549-001a-57d2" name="New CategoryLink" hidden="false" targetId="1683-c5e5-06a5-99de" primary="true"/>
@@ -2541,7 +2649,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry id="8ad7-abf1-8eb5-626a" name="Valentine Mk. III" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="8ad7-abf1-8eb5-626a" name="Infantry Tank Mk. III &quot;Valentine&quot; Mk. III OP" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="65be-b8b0-6cd0-1215" name="New CategoryLink" hidden="false" targetId="bb1c-2b1e-a081-3c10" primary="true"/>
         <categoryLink id="fe7c-efbf-48d4-91fc" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
@@ -2560,7 +2668,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="95.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a644-6833-693f-e48e" name="M4 Sherman OP" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="a644-6833-693f-e48e" name="Medium Tank M4 Sherman OP" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="d671-9511-4a2f-deec" name="New CategoryLink" hidden="false" targetId="bb1c-2b1e-a081-3c10" primary="true"/>
         <categoryLink id="5634-c8be-765e-1c8e" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
@@ -2647,7 +2755,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="119.0"/>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="99.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="464a-41ef-1140-0d29" name="Staghound Mk. I" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
@@ -2666,10 +2774,10 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <entryLink id="b046-ad7c-e662-6c09" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
-        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="123.0"/>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="103.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="99e3-3fa8-f601-8b6b" name="Vickers Mk. VI" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="99e3-3fa8-f601-8b6b" name="Light Tank Mk. VI" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="0105-7cac-0904-6a62" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
         <categoryLink id="9ee8-9c97-5591-be0a" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
@@ -2724,6 +2832,333 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
       </entryLinks>
       <costs>
         <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="98.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="daa6-b044-048a-665e" name="Infantry Tank Mk. III &quot;Valentine&quot; Mk. III" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="5828-ec77-e78e-8d9b" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="9039-9c12-9da8-1993" name="Infantry Tank Mk. III &quot;Valentine&quot; Mk. III" hidden="false" targetId="476c-4b09-5a1a-0a1c" primary="false"/>
+        <categoryLink id="0bf1-7640-a484-a191" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="8ed9-ee78-8d43-3c18" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+        <entryLink id="fd64-11cf-64cb-0977" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="ccc2-f5fa-034c-405b" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+            <entryLink id="e883-d61f-4878-3ee9" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="131.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3e0e-b92b-9216-8937" name="Light Tank M5 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="d0e1-7530-232d-2b1a" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="b6fc-e82e-fadc-3640" name="M5 &quot;Stuart&quot;" hidden="false" targetId="2d80-50f5-a1a2-6aa5" primary="false"/>
+        <categoryLink id="cd5b-9149-5ba1-8a5f" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="3a32-f71b-415f-fce8" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="a252-f910-f277-e4a7" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+            <entryLink id="430d-4ce8-08a0-0a70" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="740c-fba8-f892-39db" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="113.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1ae2-5c73-6307-acaf" name="Light Tank M3 &quot;Stuart&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="898b-1c3c-d853-b1e1" name="M3 &quot;Stuart&quot;" hidden="false" targetId="66b8-dac2-a057-0e41" primary="false"/>
+        <categoryLink id="0be9-f1ed-b151-6981" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="d7e3-f54a-079e-7e0f" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="0377-380c-acec-e93a" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="9e18-15ae-2e3b-047c" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="a618-fab6-549a-de8d" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="3db5-b393-8d14-9ad6" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="113.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1959-f21e-9188-92cd" name="Cruiser Tank Mk. III (A13)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="66a4-d69b-3636-5114" name="Cruiser Tank Mk. III (A13)" hidden="false" targetId="cfcc-9b67-8688-d000" primary="false"/>
+        <categoryLink id="95c1-f34b-f1db-36ef" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="f1a3-e9f2-74f1-1685" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="3221-0433-0831-ef58" name="Begleitinfantrie" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+        <entryLink id="d00c-5ef6-30aa-b00a" name="Zusatzausrüstung" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="ef5d-9e65-a5d8-eaea" name="Heckenschneider" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="1537-cb8e-6945-bd41" name="Koaxial-MG" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="94.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c8a0-03cc-83e1-3f19" name="Cruiser Tank Mk. VI &quot;Crusader&quot; Mk. I (A15)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="d8e7-4506-7a98-8fd1" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="5325-17ab-2a06-26ee" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+        <categoryLink id="2b62-ac89-29fa-7964" name="Cruiser Tank Mk. VI &quot;Crusader&quot; Mk. I (A15)" hidden="false" targetId="c3d2-efcf-b8ae-e988" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="db75-c77b-a569-3844" name="Begleitinfantrie" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+        <entryLink id="e222-b6e5-0feb-c28d" name="Zusatzausrüstung" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="cf3b-0d9e-dd4a-7ca8" name="Heckenschneider" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="6da3-4def-fb5f-54e1" name="Koaxial-MG" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="96.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a7a7-9918-7fb7-8430" name="Cruiser Tank Mk. VI &quot;Crusader&quot; Mk. III (A15)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="1f7a-3be0-4cd4-b9ce" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="33de-1902-7644-74bd" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+        <categoryLink id="1d08-bbdb-a00c-2ef8" name="Cruiser Tank Mk. VI &quot;Crusader&quot; Mk. III (A15)" hidden="false" targetId="d8eb-6856-e8dd-e4e7" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="f47d-1264-434c-b97c" name="Begleitinfantrie" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+        <entryLink id="810e-9bdb-f279-d695" name="Zusatzausrüstung" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="0d3e-ae57-c4f0-1f22" name="Heckenschneider" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="83e7-c349-9fae-2201" name="Koaxial-MG" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="160.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4c3e-aec7-fb3e-6361" name="Cruiser Tank Mk. VI &quot;Crusader&quot; Mk. II (A15)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="1e23-1f86-674b-71c9" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="e449-947a-9a2a-6e8b" name="New CategoryLink" hidden="false" targetId="a1c4-957f-afeb-b168" primary="true"/>
+        <categoryLink id="9a5d-421a-1ddc-a258" name="Cruiser Tank Mk. VI &quot;Crusader&quot; Mk. II (A15)" hidden="false" targetId="ec95-5e4f-7edb-71a1" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="22d9-7f19-c4b7-cb42" name="Begleitinfantrie" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+        <entryLink id="4348-132d-0974-3096" name="Zusatzausrüstung" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="abc3-37a2-eba9-d6bb" name="Heckenschneider" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="e63a-f4fe-0aa4-5717" name="Koaxial-MG" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="96.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dacf-0e53-b8ba-9bea" name="Infantry Tank Mk. II &quot;Matilda&quot; (A12)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="6bdb-9ff7-b530-f2e7" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="e53e-82d0-86c2-c2e0" name="Infantry Tank Mk. II &quot;Matilda&quot; (A12)" hidden="false" targetId="c17a-742b-8975-88a8" primary="false"/>
+        <categoryLink id="2624-4f9f-d8ec-2b88" name="New CategoryLink" hidden="false" targetId="17a6-9416-03d4-c703" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="ac06-6300-2996-78d9" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="7b23-695a-febf-0e27" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="9556-30c9-f4be-6a75" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="b2d2-c3a7-5dc5-b4fa" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="170.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b1e2-7c8b-9555-8e17" name="Medium Tank M4 Sherman" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="a9c2-692e-5ab2-f386" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="7eab-95e7-df0e-d60b" name="M4 Sherman" hidden="false" targetId="0497-caa4-fd39-1f2a" primary="false"/>
+        <categoryLink id="d659-f73b-7405-685e" name="New CategoryLink" hidden="false" targetId="17a6-9416-03d4-c703" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="7023-a927-d0f7-be46" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+        <entryLink id="ee7d-5362-e661-8038" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="e779-df45-c1ee-5de4" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="ca96-9fba-457c-bdc0" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="197.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b555-7d52-7e64-21e6" name="Medium Tank M4 Sherman &quot;Firefly&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="2938-582c-a635-e5f1" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="d57e-405b-00ce-6b5e" name="New CategoryLink" hidden="false" targetId="17a6-9416-03d4-c703" primary="true"/>
+        <categoryLink id="6765-2227-2a76-a03c" name="M4 Sherman &quot;Firefly&quot;" hidden="false" targetId="5580-3d77-6f25-28d7" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="dbff-4cce-5319-9585" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+        <entryLink id="3782-82d8-602c-70b9" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="595b-4f8c-fe4a-aa2f" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="9c78-cde3-bc59-b79b" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="269.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="06a0-d602-abfb-22bb" name="Cruiser Tank Mk. VIII &quot;Cromwell&quot; (A27M)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="a7ff-aae7-f033-94fb" name="A27M Cromwell" hidden="false" targetId="fba6-0680-f1e2-b717" primary="false"/>
+        <categoryLink id="e549-35ce-73e0-a259" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="bb1c-1258-216f-19c0" name="New CategoryLink" hidden="false" targetId="17a6-9416-03d4-c703" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="3bb5-202d-094e-a597" name="Zusatzausrüstung" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="4c40-0eeb-cd27-21e5" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="cb33-49db-efe7-9a43" name="Koaxial-MG" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="0d89-9049-e93f-48b8" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="198.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0994-bfbf-8d5e-671e" name="Medium Tank M3 &quot;Grant&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="3203-fc0e-0380-01a0" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="84c7-f5e1-b26e-7d5f" name="New CategoryLink" hidden="false" targetId="27d1-b2d9-9075-dfd9" primary="false"/>
+        <categoryLink id="e828-5c41-a14c-5ae9" name="New CategoryLink" hidden="false" targetId="17a6-9416-03d4-c703" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="4eba-3cf5-e569-9bdc" name="Begleitinfantrie" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+        <entryLink id="b65c-613e-2541-9cfb" name="Zusatzausrüstung" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="8dad-f34f-d36f-40cd" name="Heckenschneider" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="459c-2f45-bca5-246a" name="Koaxial-MG" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="221.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a471-e52a-4d18-4c6f" name="Cruiser Tank Comet I (A34)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="8493-34e2-558c-4ad2" name="Cruiser Tank Comet I (A34)" hidden="false" targetId="09eb-7a81-2875-a9b8" primary="false"/>
+        <categoryLink id="7016-c402-0074-5706" name="New CategoryLink" hidden="false" targetId="17a6-9416-03d4-c703" primary="true"/>
+        <categoryLink id="a8eb-231c-b0f5-7338" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="3a49-fbf3-0644-ef0c" name="Begleitinfantrie" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+        <entryLink id="2b52-00c0-8175-19f3" name="Zusatzausrüstung" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="3961-e8f7-e980-a496" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="1430-fb93-e845-87f5" name="Koaxial-MG" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="278.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="63e3-9976-b38d-873a" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. II (A22)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="3741-6c9c-87e4-9280" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="68bf-8f81-a042-4e39" name="Transportfahrzeuge" hidden="false" targetId="46d8-3d26-7644-f260" primary="false"/>
+        <categoryLink id="7514-651c-627a-7d72" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. II (A22)" hidden="false" targetId="67f0-105d-0305-bd49" primary="false"/>
+        <categoryLink id="0bc5-ac84-8917-9736" name="Schwere Panzer" hidden="false" targetId="6c55-ee07-b88b-3051" primary="true"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="e11c-8b53-d68e-4ad2" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="6631-db32-286b-3fe8" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="38dd-df89-9ca9-8edf" name="Koaxial-MG" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="b56d-8a50-f7a7-d80c" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="178.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1f9d-a3f8-e4fc-75f6" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. III (A22)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="2d54-3280-9494-44b1" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="e1eb-d21c-a8ab-9048" name="Transportfahrzeuge" hidden="false" targetId="46d8-3d26-7644-f260" primary="false"/>
+        <categoryLink id="d16f-d168-6075-fc8f" name="Schwere Panzer" hidden="false" targetId="6c55-ee07-b88b-3051" primary="true"/>
+        <categoryLink id="2438-a06e-fbce-bd2c" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. III (A22)" hidden="false" targetId="368a-4043-4815-1a20" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="6f01-046b-a9d9-3556" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="84df-3f15-21e7-ecc8" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="a631-d0f1-cf07-a2de" name="Koaxial-MG" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="c844-4e9b-1f63-d087" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="238.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c48f-2d4a-bd44-8427" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. IV (A22)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="8224-9c74-3fe1-b5a0" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="1508-164a-0825-02bc" name="Transportfahrzeuge" hidden="false" targetId="46d8-3d26-7644-f260" primary="false"/>
+        <categoryLink id="b39d-7527-8287-1e49" name="Schwere Panzer" hidden="false" targetId="6c55-ee07-b88b-3051" primary="true"/>
+        <categoryLink id="37c8-8e04-de01-8bd8" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. III (A22)" hidden="false" targetId="beba-021b-bda3-8ea1" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="603f-37c5-cf32-b7e0" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="b486-9114-7e20-a0dd" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="ad20-7e66-76d6-d6f1" name="Koaxial-MG" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="7d9d-c88c-a2ea-b538" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="238.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="74b1-99b8-df40-b33f" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. VII (A22)" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="2a1d-c130-0017-c481" name="Fahrzeug" hidden="false" targetId="a514-56d4-06ba-405f" primary="false"/>
+        <categoryLink id="1aa0-71f3-8865-abc4" name="Transportfahrzeuge" hidden="false" targetId="46d8-3d26-7644-f260" primary="false"/>
+        <categoryLink id="fcff-4efe-a83a-d20e" name="Schwere Panzer" hidden="false" targetId="6c55-ee07-b88b-3051" primary="true"/>
+        <categoryLink id="0dd0-c600-1a7c-600b" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. III (A22)" hidden="false" targetId="beba-021b-bda3-8ea1" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink id="b5a1-171c-20b5-17d3" name="Zusatzausrüstung" hidden="false" collective="false" import="true" targetId="0c8b-1563-3792-89e1" type="selectionEntryGroup">
+          <entryLinks>
+            <entryLink id="1231-0d28-a0a9-5436" name="Heckenschneider" hidden="false" collective="false" import="true" targetId="9312-0da9-9d35-0f48" type="selectionEntry"/>
+            <entryLink id="27d3-9d0c-a1f8-2c4e" name="Koaxial-MG" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" targetId="c025-cecd-5bd5-fc9b" type="selectionEntry"/>
+          </entryLinks>
+        </entryLink>
+        <entryLink id="a631-0f01-92bf-d2d0" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
+      </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="294.0"/>
       </costs>
     </selectionEntry>
   </selectionEntries>
@@ -2860,6 +3295,68 @@ unüberwindbares Gelände/Hindernissen in schwieriges Gelände umgewandelt werde
         <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
         <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
         <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="8d7b-79ca-133e-f136" name="75mm gun M3 (DS)" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">60</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">3</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">1</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">K</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="d3d7-c972-b673-4d35" name="Medium Tank M4 &quot;Sherman&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">8</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">5</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">5</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">3</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="e66c-0283-7417-3b76" name="Ordnance QF 17pdr (DS)" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="f036-8a32-7158-a77e" typeName="Waffe">
+      <characteristics>
+        <characteristic name="SR" typeId="0ce9-b04c-d6e3-555b">70</characteristic>
+        <characteristic name="FR" typeId="41df-5a1a-c7ab-9d4e">1</characteristic>
+        <characteristic name="S" typeId="fe78-b54c-1671-64db">4</characteristic>
+        <characteristic name="+" typeId="49c2-105b-8bf4-bfb2">-</characteristic>
+        <characteristic name="Sch" typeId="270a-53b8-9aa0-c6b1">M</characteristic>
+        <characteristic name="RP" typeId="dc51-226e-44e2-601b">-</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="943d-3dcf-0119-7194" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. I-VI (A22)" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">9</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">8</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">7</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">3</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">M/L</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="60c5-7cdc-982e-1f4c" name="Infantry Tank Mk. IV &quot;Churchill&quot; Mk. VII (A22)" publicationId="cb8d-b248-37d2-4542" hidden="false" typeId="9099-02e5-8f36-b9e4" typeName="Fahrzeug">
+      <characteristics>
+        <characteristic name="BL" typeId="c12f-2ab8-c87f-dca0">20</characteristic>
+        <characteristic name="BW" typeId="f543-9264-446f-1624">-</characteristic>
+        <characteristic name="FTP" typeId="22bb-2e89-2e0a-1e61">13</characteristic>
+        <characteristic name="SP" typeId="8e59-bfe6-2d76-e260">9</characteristic>
+        <characteristic name="HP" typeId="180c-7b4c-769b-3a1e">8</characteristic>
+        <characteristic name="POU" typeId="edd6-8454-a44c-8dc2">3</characteristic>
+        <characteristic name="Inf" typeId="9c8f-5b84-d659-2b46">-</characteristic>
+        <characteristic name="GL" typeId="4709-f70a-d27c-b960">-</characteristic>
+        <characteristic name="GG" typeId="20ed-e73c-981d-de42">-</characteristic>
+        <characteristic name="Zeit" typeId="cedd-e1bc-2783-51d9">L</characteristic>
       </characteristics>
     </profile>
   </sharedProfiles>
