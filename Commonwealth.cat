@@ -3643,6 +3643,9 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         </entryLink>
         <entryLink id="9678-91bd-186e-8c59" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="4540-d4ce-8894-dd98" name="Universal Carrier &quot;Wasp&quot; Mk. II" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
@@ -3658,6 +3661,9 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         </entryLink>
         <entryLink id="c455-d33e-3125-ad3e" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
+      <costs>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+      </costs>
     </selectionEntry>
     <selectionEntry id="8471-0890-9dea-7214" name="Tank, infantry, Mk. II (A12) &quot;Matilda&quot; II &quot;Frog&quot;" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
@@ -3975,6 +3981,9 @@ unüberwindbares Gelände/Hindernissen in schwieriges Gelände umgewandelt werde
             <categoryLink id="04e0-a4bb-9859-5b32" name="Schwere Maschinengewehre" hidden="false" targetId="c194-b510-605c-b0ee" primary="false"/>
             <categoryLink id="fc20-e38d-d9e5-779f" name=".303 Vickers machine gun" hidden="false" targetId="1624-c2b4-b8ae-c41d" primary="false"/>
           </categoryLinks>
+          <costs>
+            <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
     </selectionEntryGroup>
