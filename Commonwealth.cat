@@ -2594,7 +2594,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <entryLink id="8f04-c0b7-58f8-16fa" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
-        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="97.0"/>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="142.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="2776-13e2-ad68-f77a" name="Scammell Pioneer R100" hidden="false" collective="false" import="true" type="unit">
@@ -2647,7 +2647,7 @@ der Infanterietrupp aufgesessen, sprechen wir von berittener Infanterie.
         <entryLink id="f472-c7ee-b586-f754" name="Begleitinfantrie" hidden="false" collective="false" import="true" targetId="a5be-deb7-9390-42bd" type="selectionEntry"/>
       </entryLinks>
       <costs>
-        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="97.0"/>
+        <cost name=" Punkte" typeId="198c-6bc9-a197-9c5d" value="142.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="e851-4d86-030b-4055" name="Tank, Cruiser, Mk. VIII (A27L) &quot;Centaur&quot; ARV" publicationId="cb8d-b248-37d2-4542" hidden="false" collective="false" import="true" type="unit">
